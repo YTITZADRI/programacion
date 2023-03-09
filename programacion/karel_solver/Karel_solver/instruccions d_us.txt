@@ -1,0 +1,11 @@
+instruccións:
+
+1. Fer una captura de l'exercisi i posa la imatge a la carpeta d'exercisis
+2. Executar l'arxiu "run.pyw"
+3. Escriure l'ubicació de la captura del pas 1
+4. Posar la direcció del Karel tot i si puseu 90 funcionara de totes formes
+5. Posar les coordenades de l'Exit
+6. Es creara un arxiu amb el nom de resultat amb el codi
+7. Disfrutar ;)
+
+Atenció! Encara té alguns bugs pero us ajudara a poder acabar l'exercisi

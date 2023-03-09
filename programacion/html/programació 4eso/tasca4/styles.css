@@ -1,0 +1,25 @@
+td{
+	width: 200px;
+	text-align: center;
+	height: 100%;
+}
+table{
+	margin-top: 100px;
+	border-color: blue;
+	background-color: solid lightblue;
+	border-radius: 4px;
+}
+img{
+	width: 100%;
+}
+.texto2{
+	font-size: 12px;
+}
+.titulo{
+	font-size: 24px;
+}
+body{
+	font-family: Calibri;
+	font-weight: blold;
+	background-color: lightblue;
+}

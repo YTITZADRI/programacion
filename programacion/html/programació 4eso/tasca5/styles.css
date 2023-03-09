@@ -1,0 +1,8 @@
+BODY {background:lightblue; color:blue; font-family:Verdana}
+P {margin-left:1cm; color: black; font-style: italic;}
+.CORO {text-align:center; font-size:14pt; color:black}
+H1 {font-family:"Comic Sans MS"; color:white; background:skyblue;}
+I {font-family:Courier; color:black}
+a:link {color:black; font-weight:bold; }
+a:visited {color:#333}
+a:hover {color:blue; font-style: normal;font-size:20pt; font-family:"Verdana";}

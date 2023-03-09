@@ -1,0 +1,16 @@
+body{
+	background-color: lightblue;
+	font-weight: bold;
+}
+a{
+	font-size: 20px;
+	color: black;
+	: none;
+}
+button{
+	background-color: lightgray;
+	border: solid black;
+}
+img{
+	width: 400px;
+}

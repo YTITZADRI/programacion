@@ -1,0 +1,33 @@
+h1,a,h2,p{
+	color: black;
+	font-weight: bold;
+	font-family: Calibri;
+}
+button{
+	margin-top: 10px;
+	margin-right: 2px;
+	margin-block: 10px;
+	background-color: white;
+	border-color: gray;
+}
+a{
+	font-size: 18px;
+}
+.cabecera{
+	display:flex;
+  	align-items: center;
+  	justify-content:center;
+	background-color: #23D6D6;
+}
+.centrar{
+	display: block;
+	text-align: center;
+ }
+body{
+	background-color:lightblue;
+}
+img{
+	width: 300px;
+	height: 300px;
+	border-color: 1px solid black;
+}

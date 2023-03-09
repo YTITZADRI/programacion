@@ -1,0 +1,10212 @@
+<tr>
+<td><img src='lista_pokemons/bulbasaur.png'></td>
+<td>bulbasaur<br> nº1<br>
+Hierba Veneno </td>
+<td>45</td>
+<td>49</td>
+<td>49</td>
+<td>65</td>
+<td>65</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ivysaur.png'></td>
+<td>ivysaur<br> nº2<br>
+Hierba Veneno </td>
+<td>60</td>
+<td>62</td>
+<td>63</td>
+<td>80</td>
+<td>80</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/venusaur.png'></td>
+<td>venusaur<br> nº3<br>
+Hierba Veneno </td>
+<td>80</td>
+<td>82</td>
+<td>83</td>
+<td>100</td>
+<td>100</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/charmander.png'></td>
+<td>charmander<br> nº4<br>
+Fuego </td>
+<td>39</td>
+<td>52</td>
+<td>43</td>
+<td>60</td>
+<td>50</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/charmeleon.png'></td>
+<td>charmeleon<br> nº5<br>
+Fuego </td>
+<td>58</td>
+<td>64</td>
+<td>58</td>
+<td>80</td>
+<td>65</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/charizard.png'></td>
+<td>charizard<br> nº6<br>
+Fuego Volador </td>
+<td>78</td>
+<td>84</td>
+<td>78</td>
+<td>109</td>
+<td>85</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/squirtle.png'></td>
+<td>squirtle<br> nº7<br>
+Agua </td>
+<td>44</td>
+<td>48</td>
+<td>65</td>
+<td>50</td>
+<td>64</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wartortle.png'></td>
+<td>wartortle<br> nº8<br>
+Agua </td>
+<td>59</td>
+<td>63</td>
+<td>80</td>
+<td>65</td>
+<td>80</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/blastoise.png'></td>
+<td>blastoise<br> nº9<br>
+Agua </td>
+<td>79</td>
+<td>83</td>
+<td>100</td>
+<td>85</td>
+<td>105</td>
+<td>78
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/caterpie.png'></td>
+<td>caterpie<br> nº10<br>
+Bicho </td>
+<td>45</td>
+<td>30</td>
+<td>35</td>
+<td>20</td>
+<td>20</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/metapod.png'></td>
+<td>metapod<br> nº11<br>
+Bicho </td>
+<td>50</td>
+<td>20</td>
+<td>55</td>
+<td>25</td>
+<td>25</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/butterfree.png'></td>
+<td>butterfree<br> nº12<br>
+Bicho Volador </td>
+<td>60</td>
+<td>45</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/weedle.png'></td>
+<td>weedle<br> nº13<br>
+Bicho Veneno </td>
+<td>40</td>
+<td>35</td>
+<td>30</td>
+<td>20</td>
+<td>20</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kakuna.png'></td>
+<td>kakuna<br> nº14<br>
+Bicho Veneno </td>
+<td>45</td>
+<td>25</td>
+<td>50</td>
+<td>25</td>
+<td>25</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/beedrill.png'></td>
+<td>beedrill<br> nº15<br>
+Bicho Veneno </td>
+<td>65</td>
+<td>90</td>
+<td>40</td>
+<td>45</td>
+<td>80</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pidgey.png'></td>
+<td>pidgey<br> nº16<br>
+Normal Volador </td>
+<td>40</td>
+<td>45</td>
+<td>40</td>
+<td>35</td>
+<td>35</td>
+<td>56
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pidgeotto.png'></td>
+<td>pidgeotto<br> nº17<br>
+Normal Volador </td>
+<td>63</td>
+<td>60</td>
+<td>55</td>
+<td>50</td>
+<td>50</td>
+<td>71
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pidgeot.png'></td>
+<td>pidgeot<br> nº18<br>
+Normal Volador </td>
+<td>83</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>70</td>
+<td>101
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rattata.png'></td>
+<td>rattata<br> nº19<br>
+Normal </td>
+<td>30</td>
+<td>56</td>
+<td>35</td>
+<td>25</td>
+<td>35</td>
+<td>72
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/raticate.png'></td>
+<td>raticate<br> nº20<br>
+Normal </td>
+<td>55</td>
+<td>81</td>
+<td>60</td>
+<td>50</td>
+<td>70</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spearow.png'></td>
+<td>spearow<br> nº21<br>
+Normal Volador </td>
+<td>40</td>
+<td>60</td>
+<td>30</td>
+<td>31</td>
+<td>31</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/fearow.png'></td>
+<td>fearow<br> nº22<br>
+Normal Volador </td>
+<td>65</td>
+<td>90</td>
+<td>65</td>
+<td>61</td>
+<td>61</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ekans.png'></td>
+<td>ekans<br> nº23<br>
+Veneno </td>
+<td>35</td>
+<td>60</td>
+<td>44</td>
+<td>40</td>
+<td>54</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/arbok.png'></td>
+<td>arbok<br> nº24<br>
+Veneno </td>
+<td>60</td>
+<td>95</td>
+<td>69</td>
+<td>65</td>
+<td>79</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pikachu.png'></td>
+<td>pikachu<br> nº25<br>
+Electrico </td>
+<td>35</td>
+<td>55</td>
+<td>40</td>
+<td>50</td>
+<td>50</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/raichu.png'></td>
+<td>raichu<br> nº26<br>
+Electrico </td>
+<td>60</td>
+<td>90</td>
+<td>55</td>
+<td>90</td>
+<td>80</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sandshrew.png'></td>
+<td>sandshrew<br> nº27<br>
+Tierra </td>
+<td>50</td>
+<td>75</td>
+<td>85</td>
+<td>20</td>
+<td>30</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sandslash.png'></td>
+<td>sandslash<br> nº28<br>
+Tierra </td>
+<td>75</td>
+<td>100</td>
+<td>110</td>
+<td>45</td>
+<td>55</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nidorina.png'></td>
+<td>nidorina<br> nº30<br>
+Veneno </td>
+<td>70</td>
+<td>62</td>
+<td>67</td>
+<td>55</td>
+<td>55</td>
+<td>56
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nidoqueen.png'></td>
+<td>nidoqueen<br> nº31<br>
+Veneno Tierra </td>
+<td>90</td>
+<td>92</td>
+<td>87</td>
+<td>75</td>
+<td>85</td>
+<td>76
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nidorino.png'></td>
+<td>nidorino<br> nº33<br>
+Veneno </td>
+<td>61</td>
+<td>72</td>
+<td>57</td>
+<td>55</td>
+<td>55</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nidoking.png'></td>
+<td>nidoking<br> nº34<br>
+Veneno Tierra </td>
+<td>81</td>
+<td>102</td>
+<td>77</td>
+<td>85</td>
+<td>75</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/clefairy.png'></td>
+<td>clefairy<br> nº35<br>
+Hada </td>
+<td>70</td>
+<td>45</td>
+<td>48</td>
+<td>60</td>
+<td>65</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/clefable.png'></td>
+<td>clefable<br> nº36<br>
+Hada </td>
+<td>95</td>
+<td>70</td>
+<td>73</td>
+<td>95</td>
+<td>90</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vulpix.png'></td>
+<td>vulpix<br> nº37<br>
+Fuego </td>
+<td>38</td>
+<td>41</td>
+<td>40</td>
+<td>50</td>
+<td>65</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ninetales.png'></td>
+<td>ninetales<br> nº38<br>
+Fuego </td>
+<td>73</td>
+<td>76</td>
+<td>75</td>
+<td>81</td>
+<td>100</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/jigglypuff.png'></td>
+<td>jigglypuff<br> nº39<br>
+Normal Hada </td>
+<td>115</td>
+<td>45</td>
+<td>20</td>
+<td>45</td>
+<td>25</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wigglytuff.png'></td>
+<td>wigglytuff<br> nº40<br>
+Normal Hada </td>
+<td>140</td>
+<td>70</td>
+<td>45</td>
+<td>85</td>
+<td>50</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zubat.png'></td>
+<td>zubat<br> nº41<br>
+Veneno Volador </td>
+<td>40</td>
+<td>45</td>
+<td>35</td>
+<td>30</td>
+<td>40</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/golbat.png'></td>
+<td>golbat<br> nº42<br>
+Veneno Volador </td>
+<td>75</td>
+<td>80</td>
+<td>70</td>
+<td>65</td>
+<td>75</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/oddish.png'></td>
+<td>oddish<br> nº43<br>
+Hierba Veneno </td>
+<td>45</td>
+<td>50</td>
+<td>55</td>
+<td>75</td>
+<td>65</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gloom.png'></td>
+<td>gloom<br> nº44<br>
+Hierba Veneno </td>
+<td>60</td>
+<td>65</td>
+<td>70</td>
+<td>85</td>
+<td>75</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vileplume.png'></td>
+<td>vileplume<br> nº45<br>
+Hierba Veneno </td>
+<td>75</td>
+<td>80</td>
+<td>85</td>
+<td>110</td>
+<td>90</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/paras.png'></td>
+<td>paras<br> nº46<br>
+Bicho Hierba </td>
+<td>35</td>
+<td>70</td>
+<td>55</td>
+<td>45</td>
+<td>55</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/parasect.png'></td>
+<td>parasect<br> nº47<br>
+Bicho Hierba </td>
+<td>60</td>
+<td>95</td>
+<td>80</td>
+<td>60</td>
+<td>80</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/venonat.png'></td>
+<td>venonat<br> nº48<br>
+Bicho Veneno </td>
+<td>60</td>
+<td>55</td>
+<td>50</td>
+<td>40</td>
+<td>55</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/venomoth.png'></td>
+<td>venomoth<br> nº49<br>
+Bicho Veneno </td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>90</td>
+<td>75</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/diglett.png'></td>
+<td>diglett<br> nº50<br>
+Tierra </td>
+<td>10</td>
+<td>55</td>
+<td>25</td>
+<td>35</td>
+<td>45</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/diglett.png'></td>
+<td>diglett<br> nº50<br>
+Tierra </td>
+<td>10</td>
+<td>55</td>
+<td>25</td>
+<td>35</td>
+<td>45</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dugtrio.png'></td>
+<td>dugtrio<br> nº51<br>
+Tierra </td>
+<td>35</td>
+<td>100</td>
+<td>50</td>
+<td>50</td>
+<td>70</td>
+<td>120
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/meowth.png'></td>
+<td>meowth<br> nº52<br>
+Normal </td>
+<td>40</td>
+<td>45</td>
+<td>35</td>
+<td>40</td>
+<td>40</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/persian.png'></td>
+<td>persian<br> nº53<br>
+Normal </td>
+<td>65</td>
+<td>70</td>
+<td>60</td>
+<td>65</td>
+<td>65</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/psyduck.png'></td>
+<td>psyduck<br> nº54<br>
+Agua </td>
+<td>50</td>
+<td>52</td>
+<td>48</td>
+<td>65</td>
+<td>50</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/golduck.png'></td>
+<td>golduck<br> nº55<br>
+Agua </td>
+<td>80</td>
+<td>82</td>
+<td>78</td>
+<td>95</td>
+<td>80</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mankey.png'></td>
+<td>mankey<br> nº56<br>
+Lucha </td>
+<td>40</td>
+<td>80</td>
+<td>35</td>
+<td>35</td>
+<td>45</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/primeape.png'></td>
+<td>primeape<br> nº57<br>
+Lucha </td>
+<td>65</td>
+<td>105</td>
+<td>60</td>
+<td>60</td>
+<td>70</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/growlithe.png'></td>
+<td>growlithe<br> nº58<br>
+Fuego </td>
+<td>55</td>
+<td>70</td>
+<td>45</td>
+<td>70</td>
+<td>50</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/arcanine.png'></td>
+<td>arcanine<br> nº59<br>
+Fuego </td>
+<td>90</td>
+<td>110</td>
+<td>80</td>
+<td>100</td>
+<td>80</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/poliwag.png'></td>
+<td>poliwag<br> nº60<br>
+Agua </td>
+<td>40</td>
+<td>50</td>
+<td>40</td>
+<td>40</td>
+<td>40</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/poliwhirl.png'></td>
+<td>poliwhirl<br> nº61<br>
+Agua </td>
+<td>65</td>
+<td>65</td>
+<td>65</td>
+<td>50</td>
+<td>50</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/poliwrath.png'></td>
+<td>poliwrath<br> nº62<br>
+Agua Lucha </td>
+<td>90</td>
+<td>95</td>
+<td>95</td>
+<td>70</td>
+<td>90</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/abra.png'></td>
+<td>abra<br> nº63<br>
+Psíquico </td>
+<td>25</td>
+<td>20</td>
+<td>15</td>
+<td>105</td>
+<td>55</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kadabra.png'></td>
+<td>kadabra<br> nº64<br>
+Psíquico </td>
+<td>40</td>
+<td>35</td>
+<td>30</td>
+<td>120</td>
+<td>70</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/alakazam.png'></td>
+<td>alakazam<br> nº65<br>
+Psíquico </td>
+<td>55</td>
+<td>50</td>
+<td>45</td>
+<td>135</td>
+<td>95</td>
+<td>120
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/machop.png'></td>
+<td>machop<br> nº66<br>
+Lucha </td>
+<td>70</td>
+<td>80</td>
+<td>50</td>
+<td>35</td>
+<td>35</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/machoke.png'></td>
+<td>machoke<br> nº67<br>
+Lucha </td>
+<td>80</td>
+<td>100</td>
+<td>70</td>
+<td>50</td>
+<td>60</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/machamp.png'></td>
+<td>machamp<br> nº68<br>
+Lucha </td>
+<td>90</td>
+<td>130</td>
+<td>80</td>
+<td>65</td>
+<td>85</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bellsprout.png'></td>
+<td>bellsprout<br> nº69<br>
+Hierba Veneno </td>
+<td>50</td>
+<td>75</td>
+<td>35</td>
+<td>70</td>
+<td>30</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/weepinbell.png'></td>
+<td>weepinbell<br> nº70<br>
+Hierba Veneno </td>
+<td>65</td>
+<td>90</td>
+<td>50</td>
+<td>85</td>
+<td>45</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/victreebel.png'></td>
+<td>victreebel<br> nº71<br>
+Hierba Veneno </td>
+<td>80</td>
+<td>105</td>
+<td>65</td>
+<td>100</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tentacool.png'></td>
+<td>tentacool<br> nº72<br>
+Agua Veneno </td>
+<td>40</td>
+<td>40</td>
+<td>35</td>
+<td>50</td>
+<td>100</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tentacruel.png'></td>
+<td>tentacruel<br> nº73<br>
+Agua Veneno </td>
+<td>80</td>
+<td>70</td>
+<td>65</td>
+<td>80</td>
+<td>120</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/geodude.png'></td>
+<td>geodude<br> nº74<br>
+Roca Tierra </td>
+<td>40</td>
+<td>80</td>
+<td>100</td>
+<td>30</td>
+<td>30</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/graveler.png'></td>
+<td>graveler<br> nº75<br>
+Roca Tierra </td>
+<td>55</td>
+<td>95</td>
+<td>115</td>
+<td>45</td>
+<td>45</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/golem.png'></td>
+<td>golem<br> nº76<br>
+Roca Tierra </td>
+<td>80</td>
+<td>120</td>
+<td>130</td>
+<td>55</td>
+<td>65</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ponyta.png'></td>
+<td>ponyta<br> nº77<br>
+Fuego </td>
+<td>50</td>
+<td>85</td>
+<td>55</td>
+<td>65</td>
+<td>65</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rapidash.png'></td>
+<td>rapidash<br> nº78<br>
+Fuego </td>
+<td>65</td>
+<td>100</td>
+<td>70</td>
+<td>80</td>
+<td>80</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slowpoke.png'></td>
+<td>slowpoke<br> nº79<br>
+Agua Psíquico </td>
+<td>90</td>
+<td>65</td>
+<td>65</td>
+<td>40</td>
+<td>40</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slowbro.png'></td>
+<td>slowbro<br> nº80<br>
+Agua Psíquico </td>
+<td>95</td>
+<td>75</td>
+<td>110</td>
+<td>100</td>
+<td>80</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magnemite.png'></td>
+<td>magnemite<br> nº81<br>
+Electrico Metal </td>
+<td>25</td>
+<td>35</td>
+<td>70</td>
+<td>95</td>
+<td>55</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magneton.png'></td>
+<td>magneton<br> nº82<br>
+Electrico Metal </td>
+<td>50</td>
+<td>60</td>
+<td>95</td>
+<td>120</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/farfetchd.png'></td>
+<td>farfetchd<br> nº83<br>
+Normal Volador </td>
+<td>52</td>
+<td>90</td>
+<td>55</td>
+<td>58</td>
+<td>62</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/doduo.png'></td>
+<td>doduo<br> nº84<br>
+Normal Volador </td>
+<td>35</td>
+<td>85</td>
+<td>45</td>
+<td>35</td>
+<td>35</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dodrio.png'></td>
+<td>dodrio<br> nº85<br>
+Normal Volador </td>
+<td>60</td>
+<td>110</td>
+<td>70</td>
+<td>60</td>
+<td>60</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/seel.png'></td>
+<td>seel<br> nº86<br>
+Agua </td>
+<td>65</td>
+<td>45</td>
+<td>55</td>
+<td>45</td>
+<td>70</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dewgong.png'></td>
+<td>dewgong<br> nº87<br>
+Agua Hielo </td>
+<td>90</td>
+<td>70</td>
+<td>80</td>
+<td>70</td>
+<td>95</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grimer.png'></td>
+<td>grimer<br> nº88<br>
+Veneno </td>
+<td>80</td>
+<td>80</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/muk.png'></td>
+<td>muk<br> nº89<br>
+Veneno </td>
+<td>105</td>
+<td>105</td>
+<td>75</td>
+<td>65</td>
+<td>100</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shellder.png'></td>
+<td>shellder<br> nº90<br>
+Agua </td>
+<td>30</td>
+<td>65</td>
+<td>100</td>
+<td>45</td>
+<td>25</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cloyster.png'></td>
+<td>cloyster<br> nº91<br>
+Agua Hielo </td>
+<td>50</td>
+<td>95</td>
+<td>180</td>
+<td>85</td>
+<td>45</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gastly.png'></td>
+<td>gastly<br> nº92<br>
+Veneno </td>
+<td>30</td>
+<td>35</td>
+<td>30</td>
+<td>100</td>
+<td>35</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/haunter.png'></td>
+<td>haunter<br> nº93<br>
+Veneno </td>
+<td>45</td>
+<td>50</td>
+<td>45</td>
+<td>115</td>
+<td>55</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gengar.png'></td>
+<td>gengar<br> nº94<br>
+Veneno </td>
+<td>60</td>
+<td>65</td>
+<td>60</td>
+<td>130</td>
+<td>75</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/onix.png'></td>
+<td>onix<br> nº95<br>
+Roca Tierra </td>
+<td>35</td>
+<td>45</td>
+<td>160</td>
+<td>30</td>
+<td>45</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drowzee.png'></td>
+<td>drowzee<br> nº96<br>
+Psíquico </td>
+<td>60</td>
+<td>48</td>
+<td>45</td>
+<td>43</td>
+<td>90</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hypno.png'></td>
+<td>hypno<br> nº97<br>
+Psíquico </td>
+<td>85</td>
+<td>73</td>
+<td>70</td>
+<td>73</td>
+<td>115</td>
+<td>67
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/krabby.png'></td>
+<td>krabby<br> nº98<br>
+Agua </td>
+<td>30</td>
+<td>105</td>
+<td>90</td>
+<td>25</td>
+<td>25</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kingler.png'></td>
+<td>kingler<br> nº99<br>
+Agua </td>
+<td>55</td>
+<td>130</td>
+<td>115</td>
+<td>50</td>
+<td>50</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/voltorb.png'></td>
+<td>voltorb<br> nº100<br>
+Electrico </td>
+<td>40</td>
+<td>30</td>
+<td>50</td>
+<td>55</td>
+<td>55</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/electrode.png'></td>
+<td>electrode<br> nº101<br>
+Electrico </td>
+<td>60</td>
+<td>50</td>
+<td>70</td>
+<td>80</td>
+<td>80</td>
+<td>150
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/exeggcute.png'></td>
+<td>exeggcute<br> nº102<br>
+Hierba Psíquico </td>
+<td>60</td>
+<td>40</td>
+<td>80</td>
+<td>60</td>
+<td>45</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/exeggutor.png'></td>
+<td>exeggutor<br> nº103<br>
+Hierba Psíquico </td>
+<td>95</td>
+<td>95</td>
+<td>85</td>
+<td>125</td>
+<td>75</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cubone.png'></td>
+<td>cubone<br> nº104<br>
+Tierra </td>
+<td>50</td>
+<td>50</td>
+<td>95</td>
+<td>40</td>
+<td>50</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/marowak.png'></td>
+<td>marowak<br> nº105<br>
+Tierra </td>
+<td>60</td>
+<td>80</td>
+<td>110</td>
+<td>50</td>
+<td>80</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hitmonlee.png'></td>
+<td>hitmonlee<br> nº106<br>
+Lucha </td>
+<td>50</td>
+<td>120</td>
+<td>53</td>
+<td>35</td>
+<td>110</td>
+<td>87
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hitmonchan.png'></td>
+<td>hitmonchan<br> nº107<br>
+Lucha </td>
+<td>50</td>
+<td>105</td>
+<td>79</td>
+<td>35</td>
+<td>110</td>
+<td>76
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lickitung.png'></td>
+<td>lickitung<br> nº108<br>
+Normal </td>
+<td>90</td>
+<td>55</td>
+<td>75</td>
+<td>60</td>
+<td>75</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/koffing.png'></td>
+<td>koffing<br> nº109<br>
+Veneno </td>
+<td>40</td>
+<td>65</td>
+<td>95</td>
+<td>60</td>
+<td>45</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/weezing.png'></td>
+<td>weezing<br> nº110<br>
+Veneno </td>
+<td>65</td>
+<td>90</td>
+<td>120</td>
+<td>85</td>
+<td>70</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rhyhorn.png'></td>
+<td>rhyhorn<br> nº111<br>
+Tierra Roca </td>
+<td>80</td>
+<td>85</td>
+<td>95</td>
+<td>30</td>
+<td>30</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rhydon.png'></td>
+<td>rhydon<br> nº112<br>
+Tierra Roca </td>
+<td>105</td>
+<td>130</td>
+<td>120</td>
+<td>45</td>
+<td>45</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chansey.png'></td>
+<td>chansey<br> nº113<br>
+Normal </td>
+<td>250</td>
+<td>5</td>
+<td>5</td>
+<td>35</td>
+<td>105</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tangela.png'></td>
+<td>tangela<br> nº114<br>
+Hierba </td>
+<td>65</td>
+<td>55</td>
+<td>115</td>
+<td>100</td>
+<td>40</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kangaskhan.png'></td>
+<td>kangaskhan<br> nº115<br>
+Normal </td>
+<td>105</td>
+<td>95</td>
+<td>80</td>
+<td>40</td>
+<td>80</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/horsea.png'></td>
+<td>horsea<br> nº116<br>
+Agua </td>
+<td>30</td>
+<td>40</td>
+<td>70</td>
+<td>70</td>
+<td>25</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/seadra.png'></td>
+<td>seadra<br> nº117<br>
+Agua </td>
+<td>55</td>
+<td>65</td>
+<td>95</td>
+<td>95</td>
+<td>45</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/goldeen.png'></td>
+<td>goldeen<br> nº118<br>
+Agua </td>
+<td>45</td>
+<td>67</td>
+<td>60</td>
+<td>35</td>
+<td>50</td>
+<td>63
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/seaking.png'></td>
+<td>seaking<br> nº119<br>
+Agua </td>
+<td>80</td>
+<td>92</td>
+<td>65</td>
+<td>65</td>
+<td>80</td>
+<td>68
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/staryu.png'></td>
+<td>staryu<br> nº120<br>
+Agua </td>
+<td>30</td>
+<td>45</td>
+<td>55</td>
+<td>70</td>
+<td>55</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/starmie.png'></td>
+<td>starmie<br> nº121<br>
+Agua Psíquico </td>
+<td>60</td>
+<td>75</td>
+<td>85</td>
+<td>100</td>
+<td>85</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scyther.png'></td>
+<td>scyther<br> nº123<br>
+Bicho Volador </td>
+<td>70</td>
+<td>110</td>
+<td>80</td>
+<td>55</td>
+<td>80</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/jynx.png'></td>
+<td>jynx<br> nº124<br>
+Hielo Psíquico </td>
+<td>65</td>
+<td>50</td>
+<td>35</td>
+<td>115</td>
+<td>95</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/electabuzz.png'></td>
+<td>electabuzz<br> nº125<br>
+Electrico </td>
+<td>65</td>
+<td>83</td>
+<td>57</td>
+<td>95</td>
+<td>85</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magmar.png'></td>
+<td>magmar<br> nº126<br>
+Fuego </td>
+<td>65</td>
+<td>95</td>
+<td>57</td>
+<td>100</td>
+<td>85</td>
+<td>93
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pinsir.png'></td>
+<td>pinsir<br> nº127<br>
+Bicho </td>
+<td>65</td>
+<td>125</td>
+<td>100</td>
+<td>55</td>
+<td>70</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tauros.png'></td>
+<td>tauros<br> nº128<br>
+Normal </td>
+<td>75</td>
+<td>100</td>
+<td>95</td>
+<td>40</td>
+<td>70</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magikarp.png'></td>
+<td>magikarp<br> nº129<br>
+Agua </td>
+<td>20</td>
+<td>10</td>
+<td>55</td>
+<td>15</td>
+<td>20</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gyarados.png'></td>
+<td>gyarados<br> nº130<br>
+Agua Volador </td>
+<td>95</td>
+<td>125</td>
+<td>79</td>
+<td>60</td>
+<td>100</td>
+<td>81
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lapras.png'></td>
+<td>lapras<br> nº131<br>
+Agua Hielo </td>
+<td>130</td>
+<td>85</td>
+<td>80</td>
+<td>85</td>
+<td>95</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ditto.png'></td>
+<td>ditto<br> nº132<br>
+Normal </td>
+<td>48</td>
+<td>48</td>
+<td>48</td>
+<td>48</td>
+<td>48</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/eevee.png'></td>
+<td>eevee<br> nº133<br>
+Normal </td>
+<td>55</td>
+<td>55</td>
+<td>50</td>
+<td>45</td>
+<td>65</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vaporeon.png'></td>
+<td>vaporeon<br> nº134<br>
+Agua </td>
+<td>130</td>
+<td>65</td>
+<td>60</td>
+<td>110</td>
+<td>95</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/jolteon.png'></td>
+<td>jolteon<br> nº135<br>
+Electrico </td>
+<td>65</td>
+<td>65</td>
+<td>60</td>
+<td>110</td>
+<td>95</td>
+<td>130
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/flareon.png'></td>
+<td>flareon<br> nº136<br>
+Fuego </td>
+<td>65</td>
+<td>130</td>
+<td>60</td>
+<td>95</td>
+<td>110</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/porygon.png'></td>
+<td>porygon<br> nº137<br>
+Normal </td>
+<td>65</td>
+<td>60</td>
+<td>70</td>
+<td>85</td>
+<td>75</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/omanyte.png'></td>
+<td>omanyte<br> nº138<br>
+Roca Agua </td>
+<td>35</td>
+<td>40</td>
+<td>100</td>
+<td>90</td>
+<td>55</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/omastar.png'></td>
+<td>omastar<br> nº139<br>
+Roca Agua </td>
+<td>70</td>
+<td>60</td>
+<td>125</td>
+<td>115</td>
+<td>70</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kabuto.png'></td>
+<td>kabuto<br> nº140<br>
+Roca Agua </td>
+<td>30</td>
+<td>80</td>
+<td>90</td>
+<td>55</td>
+<td>45</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kabutops.png'></td>
+<td>kabutops<br> nº141<br>
+Roca Agua </td>
+<td>60</td>
+<td>115</td>
+<td>105</td>
+<td>65</td>
+<td>70</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/aerodactyl.png'></td>
+<td>aerodactyl<br> nº142<br>
+Roca Volador </td>
+<td>80</td>
+<td>105</td>
+<td>65</td>
+<td>60</td>
+<td>75</td>
+<td>130
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/snorlax.png'></td>
+<td>snorlax<br> nº143<br>
+Normal </td>
+<td>160</td>
+<td>110</td>
+<td>65</td>
+<td>65</td>
+<td>110</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/articuno.png'></td>
+<td>articuno<br> nº144<br>
+Hielo Volador </td>
+<td>90</td>
+<td>85</td>
+<td>100</td>
+<td>95</td>
+<td>125</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zapdos.png'></td>
+<td>zapdos<br> nº145<br>
+Electrico Volador </td>
+<td>90</td>
+<td>90</td>
+<td>85</td>
+<td>125</td>
+<td>90</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/moltres.png'></td>
+<td>moltres<br> nº146<br>
+Fuego Volador </td>
+<td>90</td>
+<td>100</td>
+<td>90</td>
+<td>125</td>
+<td>85</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dratini.png'></td>
+<td>dratini<br> nº147<br>
+</td>
+<td>41</td>
+<td>64</td>
+<td>45</td>
+<td>50</td>
+<td>50</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dragonair.png'></td>
+<td>dragonair<br> nº148<br>
+</td>
+<td>61</td>
+<td>84</td>
+<td>65</td>
+<td>70</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dragonite.png'></td>
+<td>dragonite<br> nº149<br>
+Volador </td>
+<td>91</td>
+<td>134</td>
+<td>95</td>
+<td>100</td>
+<td>100</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mewtwo.png'></td>
+<td>mewtwo<br> nº150<br>
+Psíquico </td>
+<td>106</td>
+<td>110</td>
+<td>90</td>
+<td>154</td>
+<td>90</td>
+<td>130
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mew.png'></td>
+<td>mew<br> nº151<br>
+Psíquico </td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chikorita.png'></td>
+<td>chikorita<br> nº152<br>
+Hierba </td>
+<td>45</td>
+<td>49</td>
+<td>65</td>
+<td>49</td>
+<td>65</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bayleef.png'></td>
+<td>bayleef<br> nº153<br>
+Hierba </td>
+<td>60</td>
+<td>62</td>
+<td>80</td>
+<td>63</td>
+<td>80</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/meganium.png'></td>
+<td>meganium<br> nº154<br>
+Hierba </td>
+<td>80</td>
+<td>82</td>
+<td>100</td>
+<td>83</td>
+<td>100</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cyndaquil.png'></td>
+<td>cyndaquil<br> nº155<br>
+Fuego </td>
+<td>39</td>
+<td>52</td>
+<td>43</td>
+<td>60</td>
+<td>50</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/quilava.png'></td>
+<td>quilava<br> nº156<br>
+Fuego </td>
+<td>58</td>
+<td>64</td>
+<td>58</td>
+<td>80</td>
+<td>65</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/typhlosion.png'></td>
+<td>typhlosion<br> nº157<br>
+Fuego </td>
+<td>78</td>
+<td>84</td>
+<td>78</td>
+<td>109</td>
+<td>85</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/totodile.png'></td>
+<td>totodile<br> nº158<br>
+Agua </td>
+<td>50</td>
+<td>65</td>
+<td>64</td>
+<td>44</td>
+<td>48</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/croconaw.png'></td>
+<td>croconaw<br> nº159<br>
+Agua </td>
+<td>65</td>
+<td>80</td>
+<td>80</td>
+<td>59</td>
+<td>63</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/feraligatr.png'></td>
+<td>feraligatr<br> nº160<br>
+Agua </td>
+<td>85</td>
+<td>105</td>
+<td>100</td>
+<td>79</td>
+<td>83</td>
+<td>78
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sentret.png'></td>
+<td>sentret<br> nº161<br>
+Normal </td>
+<td>35</td>
+<td>46</td>
+<td>34</td>
+<td>35</td>
+<td>45</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/furret.png'></td>
+<td>furret<br> nº162<br>
+Normal </td>
+<td>85</td>
+<td>76</td>
+<td>64</td>
+<td>45</td>
+<td>55</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hoothoot.png'></td>
+<td>hoothoot<br> nº163<br>
+Normal Volador </td>
+<td>60</td>
+<td>30</td>
+<td>30</td>
+<td>36</td>
+<td>56</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/noctowl.png'></td>
+<td>noctowl<br> nº164<br>
+Normal Volador </td>
+<td>100</td>
+<td>50</td>
+<td>50</td>
+<td>86</td>
+<td>96</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ledyba.png'></td>
+<td>ledyba<br> nº165<br>
+Bicho Volador </td>
+<td>40</td>
+<td>20</td>
+<td>30</td>
+<td>40</td>
+<td>80</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ledian.png'></td>
+<td>ledian<br> nº166<br>
+Bicho Volador </td>
+<td>55</td>
+<td>35</td>
+<td>50</td>
+<td>55</td>
+<td>110</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spinarak.png'></td>
+<td>spinarak<br> nº167<br>
+Bicho Veneno </td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>40</td>
+<td>40</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ariados.png'></td>
+<td>ariados<br> nº168<br>
+Bicho Veneno </td>
+<td>70</td>
+<td>90</td>
+<td>70</td>
+<td>60</td>
+<td>70</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/crobat.png'></td>
+<td>crobat<br> nº169<br>
+Veneno Volador </td>
+<td>85</td>
+<td>90</td>
+<td>80</td>
+<td>70</td>
+<td>80</td>
+<td>130
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chinchou.png'></td>
+<td>chinchou<br> nº170<br>
+Agua Electrico </td>
+<td>75</td>
+<td>38</td>
+<td>38</td>
+<td>56</td>
+<td>56</td>
+<td>67
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lanturn.png'></td>
+<td>lanturn<br> nº171<br>
+Agua Electrico </td>
+<td>125</td>
+<td>58</td>
+<td>58</td>
+<td>76</td>
+<td>76</td>
+<td>67
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pichu.png'></td>
+<td>pichu<br> nº172<br>
+Electrico </td>
+<td>20</td>
+<td>40</td>
+<td>15</td>
+<td>35</td>
+<td>35</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cleffa.png'></td>
+<td>cleffa<br> nº173<br>
+Hada </td>
+<td>50</td>
+<td>25</td>
+<td>28</td>
+<td>45</td>
+<td>55</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/igglybuff.png'></td>
+<td>igglybuff<br> nº174<br>
+Normal Hada </td>
+<td>90</td>
+<td>30</td>
+<td>15</td>
+<td>40</td>
+<td>20</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/togepi.png'></td>
+<td>togepi<br> nº175<br>
+Hada </td>
+<td>35</td>
+<td>20</td>
+<td>65</td>
+<td>40</td>
+<td>65</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/togetic.png'></td>
+<td>togetic<br> nº176<br>
+Hada Volador </td>
+<td>55</td>
+<td>40</td>
+<td>85</td>
+<td>80</td>
+<td>105</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/natu.png'></td>
+<td>natu<br> nº177<br>
+Psíquico Volador </td>
+<td>40</td>
+<td>50</td>
+<td>45</td>
+<td>70</td>
+<td>45</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/xatu.png'></td>
+<td>xatu<br> nº178<br>
+Psíquico Volador </td>
+<td>65</td>
+<td>75</td>
+<td>70</td>
+<td>95</td>
+<td>70</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mareep.png'></td>
+<td>mareep<br> nº179<br>
+Electrico </td>
+<td>55</td>
+<td>40</td>
+<td>40</td>
+<td>65</td>
+<td>45</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/flaaffy.png'></td>
+<td>flaaffy<br> nº180<br>
+Electrico </td>
+<td>70</td>
+<td>55</td>
+<td>55</td>
+<td>80</td>
+<td>60</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ampharos.png'></td>
+<td>ampharos<br> nº181<br>
+Electrico </td>
+<td>90</td>
+<td>75</td>
+<td>85</td>
+<td>115</td>
+<td>90</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bellossom.png'></td>
+<td>bellossom<br> nº182<br>
+Hierba </td>
+<td>75</td>
+<td>80</td>
+<td>95</td>
+<td>90</td>
+<td>100</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/marill.png'></td>
+<td>marill<br> nº183<br>
+Agua Hada </td>
+<td>70</td>
+<td>20</td>
+<td>50</td>
+<td>20</td>
+<td>50</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/azumarill.png'></td>
+<td>azumarill<br> nº184<br>
+Agua Hada </td>
+<td>100</td>
+<td>50</td>
+<td>80</td>
+<td>60</td>
+<td>80</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sudowoodo.png'></td>
+<td>sudowoodo<br> nº185<br>
+Roca </td>
+<td>70</td>
+<td>100</td>
+<td>115</td>
+<td>30</td>
+<td>65</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/politoed.png'></td>
+<td>politoed<br> nº186<br>
+Agua </td>
+<td>90</td>
+<td>75</td>
+<td>75</td>
+<td>90</td>
+<td>100</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hoppip.png'></td>
+<td>hoppip<br> nº187<br>
+Hierba Volador </td>
+<td>35</td>
+<td>35</td>
+<td>40</td>
+<td>35</td>
+<td>55</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skiploom.png'></td>
+<td>skiploom<br> nº188<br>
+Hierba Volador </td>
+<td>55</td>
+<td>45</td>
+<td>50</td>
+<td>45</td>
+<td>65</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/jumpluff.png'></td>
+<td>jumpluff<br> nº189<br>
+Hierba Volador </td>
+<td>75</td>
+<td>55</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/aipom.png'></td>
+<td>aipom<br> nº190<br>
+Normal </td>
+<td>55</td>
+<td>70</td>
+<td>55</td>
+<td>40</td>
+<td>55</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sunkern.png'></td>
+<td>sunkern<br> nº191<br>
+Hierba </td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sunflora.png'></td>
+<td>sunflora<br> nº192<br>
+Hierba </td>
+<td>75</td>
+<td>75</td>
+<td>55</td>
+<td>105</td>
+<td>85</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/yanma.png'></td>
+<td>yanma<br> nº193<br>
+Bicho Volador </td>
+<td>65</td>
+<td>65</td>
+<td>45</td>
+<td>75</td>
+<td>45</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wooper.png'></td>
+<td>wooper<br> nº194<br>
+Agua Tierra </td>
+<td>55</td>
+<td>45</td>
+<td>45</td>
+<td>25</td>
+<td>25</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/quagsire.png'></td>
+<td>quagsire<br> nº195<br>
+Agua Tierra </td>
+<td>95</td>
+<td>85</td>
+<td>85</td>
+<td>65</td>
+<td>65</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/espeon.png'></td>
+<td>espeon<br> nº196<br>
+Psíquico </td>
+<td>65</td>
+<td>65</td>
+<td>60</td>
+<td>130</td>
+<td>95</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/umbreon.png'></td>
+<td>umbreon<br> nº197<br>
+Oscuro </td>
+<td>95</td>
+<td>65</td>
+<td>110</td>
+<td>60</td>
+<td>130</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/murkrow.png'></td>
+<td>murkrow<br> nº198<br>
+Oscuro Volador </td>
+<td>60</td>
+<td>85</td>
+<td>42</td>
+<td>85</td>
+<td>42</td>
+<td>91
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slowking.png'></td>
+<td>slowking<br> nº199<br>
+Agua Psíquico </td>
+<td>95</td>
+<td>75</td>
+<td>80</td>
+<td>100</td>
+<td>110</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/misdreavus.png'></td>
+<td>misdreavus<br> nº200<br>
+</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>85</td>
+<td>85</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/unown.png'></td>
+<td>unown<br> nº201<br>
+Psíquico </td>
+<td>48</td>
+<td>72</td>
+<td>48</td>
+<td>72</td>
+<td>48</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wobbuffet.png'></td>
+<td>wobbuffet<br> nº202<br>
+Psíquico </td>
+<td>190</td>
+<td>33</td>
+<td>58</td>
+<td>33</td>
+<td>58</td>
+<td>33
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/girafarig.png'></td>
+<td>girafarig<br> nº203<br>
+Normal Psíquico </td>
+<td>70</td>
+<td>80</td>
+<td>65</td>
+<td>90</td>
+<td>65</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pineco.png'></td>
+<td>pineco<br> nº204<br>
+Bicho </td>
+<td>50</td>
+<td>65</td>
+<td>90</td>
+<td>35</td>
+<td>35</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/forretress.png'></td>
+<td>forretress<br> nº205<br>
+Bicho Metal </td>
+<td>75</td>
+<td>90</td>
+<td>140</td>
+<td>60</td>
+<td>60</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dunsparce.png'></td>
+<td>dunsparce<br> nº206<br>
+Normal </td>
+<td>100</td>
+<td>70</td>
+<td>70</td>
+<td>65</td>
+<td>65</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gligar.png'></td>
+<td>gligar<br> nº207<br>
+Tierra Volador </td>
+<td>65</td>
+<td>75</td>
+<td>105</td>
+<td>35</td>
+<td>65</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/steelix.png'></td>
+<td>steelix<br> nº208<br>
+Metal Tierra </td>
+<td>75</td>
+<td>85</td>
+<td>200</td>
+<td>55</td>
+<td>65</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/snubbull.png'></td>
+<td>snubbull<br> nº209<br>
+Hada </td>
+<td>60</td>
+<td>80</td>
+<td>50</td>
+<td>40</td>
+<td>40</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/granbull.png'></td>
+<td>granbull<br> nº210<br>
+Hada </td>
+<td>90</td>
+<td>120</td>
+<td>75</td>
+<td>60</td>
+<td>60</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/qwilfish.png'></td>
+<td>qwilfish<br> nº211<br>
+Agua Veneno </td>
+<td>65</td>
+<td>95</td>
+<td>85</td>
+<td>55</td>
+<td>55</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scizor.png'></td>
+<td>scizor<br> nº212<br>
+Bicho Metal </td>
+<td>70</td>
+<td>130</td>
+<td>100</td>
+<td>55</td>
+<td>80</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shuckle.png'></td>
+<td>shuckle<br> nº213<br>
+Bicho Roca </td>
+<td>20</td>
+<td>10</td>
+<td>230</td>
+<td>10</td>
+<td>230</td>
+<td>5
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/heracross.png'></td>
+<td>heracross<br> nº214<br>
+Bicho Lucha </td>
+<td>80</td>
+<td>125</td>
+<td>75</td>
+<td>40</td>
+<td>95</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sneasel.png'></td>
+<td>sneasel<br> nº215<br>
+Oscuro Hielo </td>
+<td>55</td>
+<td>95</td>
+<td>55</td>
+<td>35</td>
+<td>75</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/teddiursa.png'></td>
+<td>teddiursa<br> nº216<br>
+Normal </td>
+<td>60</td>
+<td>80</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ursaring.png'></td>
+<td>ursaring<br> nº217<br>
+Normal </td>
+<td>90</td>
+<td>130</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slugma.png'></td>
+<td>slugma<br> nº218<br>
+Fuego </td>
+<td>40</td>
+<td>40</td>
+<td>40</td>
+<td>70</td>
+<td>40</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magcargo.png'></td>
+<td>magcargo<br> nº219<br>
+Fuego Roca </td>
+<td>60</td>
+<td>50</td>
+<td>120</td>
+<td>90</td>
+<td>80</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swinub.png'></td>
+<td>swinub<br> nº220<br>
+Hielo Tierra </td>
+<td>50</td>
+<td>50</td>
+<td>40</td>
+<td>30</td>
+<td>30</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/piloswine.png'></td>
+<td>piloswine<br> nº221<br>
+Hielo Tierra </td>
+<td>100</td>
+<td>100</td>
+<td>80</td>
+<td>60</td>
+<td>60</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/corsola.png'></td>
+<td>corsola<br> nº222<br>
+Agua Roca </td>
+<td>65</td>
+<td>55</td>
+<td>95</td>
+<td>65</td>
+<td>95</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/remoraid.png'></td>
+<td>remoraid<br> nº223<br>
+Agua </td>
+<td>35</td>
+<td>65</td>
+<td>35</td>
+<td>65</td>
+<td>35</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/octillery.png'></td>
+<td>octillery<br> nº224<br>
+Agua </td>
+<td>75</td>
+<td>105</td>
+<td>75</td>
+<td>105</td>
+<td>75</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/delibird.png'></td>
+<td>delibird<br> nº225<br>
+Hielo Volador </td>
+<td>45</td>
+<td>55</td>
+<td>45</td>
+<td>65</td>
+<td>45</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mantine.png'></td>
+<td>mantine<br> nº226<br>
+Agua Volador </td>
+<td>85</td>
+<td>40</td>
+<td>70</td>
+<td>80</td>
+<td>140</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skarmory.png'></td>
+<td>skarmory<br> nº227<br>
+Metal Volador </td>
+<td>65</td>
+<td>80</td>
+<td>140</td>
+<td>40</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/houndour.png'></td>
+<td>houndour<br> nº228<br>
+Oscuro Fuego </td>
+<td>45</td>
+<td>60</td>
+<td>30</td>
+<td>80</td>
+<td>50</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/houndoom.png'></td>
+<td>houndoom<br> nº229<br>
+Oscuro Fuego </td>
+<td>75</td>
+<td>90</td>
+<td>50</td>
+<td>110</td>
+<td>80</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kingdra.png'></td>
+<td>kingdra<br> nº230<br>
+Agua </td>
+<td>75</td>
+<td>95</td>
+<td>95</td>
+<td>95</td>
+<td>95</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/phanpy.png'></td>
+<td>phanpy<br> nº231<br>
+Tierra </td>
+<td>90</td>
+<td>60</td>
+<td>60</td>
+<td>40</td>
+<td>40</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/donphan.png'></td>
+<td>donphan<br> nº232<br>
+Tierra </td>
+<td>90</td>
+<td>120</td>
+<td>120</td>
+<td>60</td>
+<td>60</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/porygon2.png'></td>
+<td>porygon2<br> nº233<br>
+Normal </td>
+<td>85</td>
+<td>80</td>
+<td>90</td>
+<td>105</td>
+<td>95</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stantler.png'></td>
+<td>stantler<br> nº234<br>
+Normal </td>
+<td>73</td>
+<td>95</td>
+<td>62</td>
+<td>85</td>
+<td>65</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/smeargle.png'></td>
+<td>smeargle<br> nº235<br>
+Normal </td>
+<td>55</td>
+<td>20</td>
+<td>35</td>
+<td>20</td>
+<td>45</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tyrogue.png'></td>
+<td>tyrogue<br> nº236<br>
+Lucha </td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hitmontop.png'></td>
+<td>hitmontop<br> nº237<br>
+Lucha </td>
+<td>50</td>
+<td>95</td>
+<td>95</td>
+<td>35</td>
+<td>110</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/smoochum.png'></td>
+<td>smoochum<br> nº238<br>
+Hielo Psíquico </td>
+<td>45</td>
+<td>30</td>
+<td>15</td>
+<td>85</td>
+<td>65</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/elekid.png'></td>
+<td>elekid<br> nº239<br>
+Electrico </td>
+<td>45</td>
+<td>63</td>
+<td>37</td>
+<td>65</td>
+<td>55</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magby.png'></td>
+<td>magby<br> nº240<br>
+Fuego </td>
+<td>45</td>
+<td>75</td>
+<td>37</td>
+<td>70</td>
+<td>55</td>
+<td>83
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/miltank.png'></td>
+<td>miltank<br> nº241<br>
+Normal </td>
+<td>95</td>
+<td>80</td>
+<td>105</td>
+<td>40</td>
+<td>70</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/blissey.png'></td>
+<td>blissey<br> nº242<br>
+Normal </td>
+<td>255</td>
+<td>10</td>
+<td>10</td>
+<td>75</td>
+<td>135</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/raikou.png'></td>
+<td>raikou<br> nº243<br>
+Electrico </td>
+<td>90</td>
+<td>85</td>
+<td>75</td>
+<td>115</td>
+<td>100</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/entei.png'></td>
+<td>entei<br> nº244<br>
+Fuego </td>
+<td>115</td>
+<td>115</td>
+<td>85</td>
+<td>90</td>
+<td>75</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/suicune.png'></td>
+<td>suicune<br> nº245<br>
+Agua </td>
+<td>100</td>
+<td>75</td>
+<td>115</td>
+<td>90</td>
+<td>115</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/larvitar.png'></td>
+<td>larvitar<br> nº246<br>
+Roca Tierra </td>
+<td>50</td>
+<td>64</td>
+<td>50</td>
+<td>45</td>
+<td>50</td>
+<td>41
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pupitar.png'></td>
+<td>pupitar<br> nº247<br>
+Roca Tierra </td>
+<td>70</td>
+<td>84</td>
+<td>70</td>
+<td>65</td>
+<td>70</td>
+<td>51
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tyranitar.png'></td>
+<td>tyranitar<br> nº248<br>
+Roca Oscuro </td>
+<td>100</td>
+<td>134</td>
+<td>110</td>
+<td>95</td>
+<td>100</td>
+<td>61
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lugia.png'></td>
+<td>lugia<br> nº249<br>
+Psíquico Volador </td>
+<td>106</td>
+<td>90</td>
+<td>130</td>
+<td>90</td>
+<td>154</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/celebi.png'></td>
+<td>celebi<br> nº251<br>
+Psíquico Hierba </td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/treecko.png'></td>
+<td>treecko<br> nº252<br>
+Hierba </td>
+<td>40</td>
+<td>45</td>
+<td>35</td>
+<td>65</td>
+<td>55</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grovyle.png'></td>
+<td>grovyle<br> nº253<br>
+Hierba </td>
+<td>50</td>
+<td>65</td>
+<td>45</td>
+<td>85</td>
+<td>65</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sceptile.png'></td>
+<td>sceptile<br> nº254<br>
+Hierba </td>
+<td>70</td>
+<td>85</td>
+<td>65</td>
+<td>105</td>
+<td>85</td>
+<td>120
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/torchic.png'></td>
+<td>torchic<br> nº255<br>
+Fuego </td>
+<td>45</td>
+<td>60</td>
+<td>40</td>
+<td>70</td>
+<td>50</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/combusken.png'></td>
+<td>combusken<br> nº256<br>
+Fuego Lucha </td>
+<td>60</td>
+<td>85</td>
+<td>60</td>
+<td>85</td>
+<td>60</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/blaziken.png'></td>
+<td>blaziken<br> nº257<br>
+Fuego Lucha </td>
+<td>80</td>
+<td>120</td>
+<td>70</td>
+<td>110</td>
+<td>70</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mudkip.png'></td>
+<td>mudkip<br> nº258<br>
+Agua </td>
+<td>50</td>
+<td>70</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/marshtomp.png'></td>
+<td>marshtomp<br> nº259<br>
+Agua Tierra </td>
+<td>70</td>
+<td>85</td>
+<td>70</td>
+<td>60</td>
+<td>70</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swampert.png'></td>
+<td>swampert<br> nº260<br>
+Agua Tierra </td>
+<td>100</td>
+<td>110</td>
+<td>90</td>
+<td>85</td>
+<td>90</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/poochyena.png'></td>
+<td>poochyena<br> nº261<br>
+Oscuro </td>
+<td>35</td>
+<td>55</td>
+<td>35</td>
+<td>30</td>
+<td>30</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mightyena.png'></td>
+<td>mightyena<br> nº262<br>
+Oscuro </td>
+<td>70</td>
+<td>90</td>
+<td>70</td>
+<td>60</td>
+<td>60</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zigzagoon.png'></td>
+<td>zigzagoon<br> nº263<br>
+Normal </td>
+<td>38</td>
+<td>30</td>
+<td>41</td>
+<td>30</td>
+<td>41</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/linoone.png'></td>
+<td>linoone<br> nº264<br>
+Normal </td>
+<td>78</td>
+<td>70</td>
+<td>61</td>
+<td>50</td>
+<td>61</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wurmple.png'></td>
+<td>wurmple<br> nº265<br>
+Bicho </td>
+<td>45</td>
+<td>45</td>
+<td>35</td>
+<td>20</td>
+<td>30</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/silcoon.png'></td>
+<td>silcoon<br> nº266<br>
+Bicho </td>
+<td>50</td>
+<td>35</td>
+<td>55</td>
+<td>25</td>
+<td>25</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/beautifly.png'></td>
+<td>beautifly<br> nº267<br>
+Bicho Volador </td>
+<td>60</td>
+<td>70</td>
+<td>50</td>
+<td>100</td>
+<td>50</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cascoon.png'></td>
+<td>cascoon<br> nº268<br>
+Bicho </td>
+<td>50</td>
+<td>35</td>
+<td>55</td>
+<td>25</td>
+<td>25</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dustox.png'></td>
+<td>dustox<br> nº269<br>
+Bicho Veneno </td>
+<td>60</td>
+<td>50</td>
+<td>70</td>
+<td>50</td>
+<td>90</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lotad.png'></td>
+<td>lotad<br> nº270<br>
+Agua Hierba </td>
+<td>40</td>
+<td>30</td>
+<td>30</td>
+<td>40</td>
+<td>50</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lombre.png'></td>
+<td>lombre<br> nº271<br>
+Agua Hierba </td>
+<td>60</td>
+<td>50</td>
+<td>50</td>
+<td>60</td>
+<td>70</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ludicolo.png'></td>
+<td>ludicolo<br> nº272<br>
+Agua Hierba </td>
+<td>80</td>
+<td>70</td>
+<td>70</td>
+<td>90</td>
+<td>100</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/seedot.png'></td>
+<td>seedot<br> nº273<br>
+Hierba </td>
+<td>40</td>
+<td>40</td>
+<td>50</td>
+<td>30</td>
+<td>30</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nuzleaf.png'></td>
+<td>nuzleaf<br> nº274<br>
+Hierba Oscuro </td>
+<td>70</td>
+<td>70</td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shiftry.png'></td>
+<td>shiftry<br> nº275<br>
+Hierba Oscuro </td>
+<td>90</td>
+<td>100</td>
+<td>60</td>
+<td>90</td>
+<td>60</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/taillow.png'></td>
+<td>taillow<br> nº276<br>
+Normal Volador </td>
+<td>40</td>
+<td>55</td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swellow.png'></td>
+<td>swellow<br> nº277<br>
+Normal Volador </td>
+<td>60</td>
+<td>85</td>
+<td>60</td>
+<td>75</td>
+<td>50</td>
+<td>125
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wingull.png'></td>
+<td>wingull<br> nº278<br>
+Agua Volador </td>
+<td>40</td>
+<td>30</td>
+<td>30</td>
+<td>55</td>
+<td>30</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pelipper.png'></td>
+<td>pelipper<br> nº279<br>
+Agua Volador </td>
+<td>60</td>
+<td>50</td>
+<td>100</td>
+<td>95</td>
+<td>70</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ralts.png'></td>
+<td>ralts<br> nº280<br>
+Psíquico Hada </td>
+<td>28</td>
+<td>25</td>
+<td>25</td>
+<td>45</td>
+<td>35</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kirlia.png'></td>
+<td>kirlia<br> nº281<br>
+Psíquico Hada </td>
+<td>38</td>
+<td>35</td>
+<td>35</td>
+<td>65</td>
+<td>55</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gardevoir.png'></td>
+<td>gardevoir<br> nº282<br>
+Psíquico Hada </td>
+<td>68</td>
+<td>65</td>
+<td>65</td>
+<td>125</td>
+<td>115</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/surskit.png'></td>
+<td>surskit<br> nº283<br>
+Bicho Agua </td>
+<td>40</td>
+<td>30</td>
+<td>32</td>
+<td>50</td>
+<td>52</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/masquerain.png'></td>
+<td>masquerain<br> nº284<br>
+Bicho Volador </td>
+<td>70</td>
+<td>60</td>
+<td>62</td>
+<td>100</td>
+<td>82</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shroomish.png'></td>
+<td>shroomish<br> nº285<br>
+Hierba </td>
+<td>60</td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>60</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/breloom.png'></td>
+<td>breloom<br> nº286<br>
+Hierba Lucha </td>
+<td>60</td>
+<td>130</td>
+<td>80</td>
+<td>60</td>
+<td>60</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slakoth.png'></td>
+<td>slakoth<br> nº287<br>
+Normal </td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>35</td>
+<td>35</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vigoroth.png'></td>
+<td>vigoroth<br> nº288<br>
+Normal </td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>55</td>
+<td>55</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slaking.png'></td>
+<td>slaking<br> nº289<br>
+Normal </td>
+<td>150</td>
+<td>160</td>
+<td>100</td>
+<td>95</td>
+<td>65</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nincada.png'></td>
+<td>nincada<br> nº290<br>
+Bicho Tierra </td>
+<td>31</td>
+<td>45</td>
+<td>90</td>
+<td>30</td>
+<td>30</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ninjask.png'></td>
+<td>ninjask<br> nº291<br>
+Bicho Volador </td>
+<td>61</td>
+<td>90</td>
+<td>45</td>
+<td>50</td>
+<td>50</td>
+<td>160
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shedinja.png'></td>
+<td>shedinja<br> nº292<br>
+Bicho </td>
+<td>1</td>
+<td>90</td>
+<td>45</td>
+<td>30</td>
+<td>30</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/whismur.png'></td>
+<td>whismur<br> nº293<br>
+Normal </td>
+<td>64</td>
+<td>51</td>
+<td>23</td>
+<td>51</td>
+<td>23</td>
+<td>28
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/loudred.png'></td>
+<td>loudred<br> nº294<br>
+Normal </td>
+<td>84</td>
+<td>71</td>
+<td>43</td>
+<td>71</td>
+<td>43</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/exploud.png'></td>
+<td>exploud<br> nº295<br>
+Normal </td>
+<td>104</td>
+<td>91</td>
+<td>63</td>
+<td>91</td>
+<td>73</td>
+<td>68
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/makuhita.png'></td>
+<td>makuhita<br> nº296<br>
+Lucha </td>
+<td>72</td>
+<td>60</td>
+<td>30</td>
+<td>20</td>
+<td>30</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hariyama.png'></td>
+<td>hariyama<br> nº297<br>
+Lucha </td>
+<td>144</td>
+<td>120</td>
+<td>60</td>
+<td>40</td>
+<td>60</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/azurill.png'></td>
+<td>azurill<br> nº298<br>
+Normal Hada </td>
+<td>50</td>
+<td>20</td>
+<td>40</td>
+<td>20</td>
+<td>40</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nosepass.png'></td>
+<td>nosepass<br> nº299<br>
+Roca </td>
+<td>30</td>
+<td>45</td>
+<td>135</td>
+<td>45</td>
+<td>90</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skitty.png'></td>
+<td>skitty<br> nº300<br>
+Normal </td>
+<td>50</td>
+<td>45</td>
+<td>45</td>
+<td>35</td>
+<td>35</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/delcatty.png'></td>
+<td>delcatty<br> nº301<br>
+Normal </td>
+<td>70</td>
+<td>65</td>
+<td>65</td>
+<td>55</td>
+<td>55</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sableye.png'></td>
+<td>sableye<br> nº302<br>
+Oscuro </td>
+<td>50</td>
+<td>75</td>
+<td>75</td>
+<td>65</td>
+<td>65</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mawile.png'></td>
+<td>mawile<br> nº303<br>
+Metal Hada </td>
+<td>50</td>
+<td>85</td>
+<td>85</td>
+<td>55</td>
+<td>55</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/aron.png'></td>
+<td>aron<br> nº304<br>
+Metal Roca </td>
+<td>50</td>
+<td>70</td>
+<td>100</td>
+<td>40</td>
+<td>40</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lairon.png'></td>
+<td>lairon<br> nº305<br>
+Metal Roca </td>
+<td>60</td>
+<td>90</td>
+<td>140</td>
+<td>50</td>
+<td>50</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/aggron.png'></td>
+<td>aggron<br> nº306<br>
+Metal Roca </td>
+<td>70</td>
+<td>110</td>
+<td>180</td>
+<td>60</td>
+<td>60</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/meditite.png'></td>
+<td>meditite<br> nº307<br>
+Lucha Psíquico </td>
+<td>30</td>
+<td>40</td>
+<td>55</td>
+<td>40</td>
+<td>55</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/medicham.png'></td>
+<td>medicham<br> nº308<br>
+Lucha Psíquico </td>
+<td>60</td>
+<td>60</td>
+<td>75</td>
+<td>60</td>
+<td>75</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/electrike.png'></td>
+<td>electrike<br> nº309<br>
+Electrico </td>
+<td>40</td>
+<td>45</td>
+<td>40</td>
+<td>65</td>
+<td>40</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/manectric.png'></td>
+<td>manectric<br> nº310<br>
+Electrico </td>
+<td>70</td>
+<td>75</td>
+<td>60</td>
+<td>105</td>
+<td>60</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/plusle.png'></td>
+<td>plusle<br> nº311<br>
+Electrico </td>
+<td>60</td>
+<td>50</td>
+<td>40</td>
+<td>85</td>
+<td>75</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/minun.png'></td>
+<td>minun<br> nº312<br>
+Electrico </td>
+<td>60</td>
+<td>40</td>
+<td>50</td>
+<td>75</td>
+<td>85</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/volbeat.png'></td>
+<td>volbeat<br> nº313<br>
+Bicho </td>
+<td>65</td>
+<td>73</td>
+<td>75</td>
+<td>47</td>
+<td>85</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/illumise.png'></td>
+<td>illumise<br> nº314<br>
+Bicho </td>
+<td>65</td>
+<td>47</td>
+<td>75</td>
+<td>73</td>
+<td>85</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/roselia.png'></td>
+<td>roselia<br> nº315<br>
+Hierba Veneno </td>
+<td>50</td>
+<td>60</td>
+<td>45</td>
+<td>100</td>
+<td>80</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gulpin.png'></td>
+<td>gulpin<br> nº316<br>
+Veneno </td>
+<td>70</td>
+<td>43</td>
+<td>53</td>
+<td>43</td>
+<td>53</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swalot.png'></td>
+<td>swalot<br> nº317<br>
+Veneno </td>
+<td>100</td>
+<td>73</td>
+<td>83</td>
+<td>73</td>
+<td>83</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/carvanha.png'></td>
+<td>carvanha<br> nº318<br>
+Agua Oscuro </td>
+<td>45</td>
+<td>90</td>
+<td>20</td>
+<td>65</td>
+<td>20</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sharpedo.png'></td>
+<td>sharpedo<br> nº319<br>
+Agua Oscuro </td>
+<td>70</td>
+<td>120</td>
+<td>40</td>
+<td>95</td>
+<td>40</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wailmer.png'></td>
+<td>wailmer<br> nº320<br>
+Agua </td>
+<td>130</td>
+<td>70</td>
+<td>35</td>
+<td>70</td>
+<td>35</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wailord.png'></td>
+<td>wailord<br> nº321<br>
+Agua </td>
+<td>170</td>
+<td>90</td>
+<td>45</td>
+<td>90</td>
+<td>45</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/numel.png'></td>
+<td>numel<br> nº322<br>
+Fuego Tierra </td>
+<td>60</td>
+<td>60</td>
+<td>40</td>
+<td>65</td>
+<td>45</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/camerupt.png'></td>
+<td>camerupt<br> nº323<br>
+Fuego Tierra </td>
+<td>70</td>
+<td>100</td>
+<td>70</td>
+<td>105</td>
+<td>75</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/torkoal.png'></td>
+<td>torkoal<br> nº324<br>
+Fuego </td>
+<td>70</td>
+<td>85</td>
+<td>140</td>
+<td>85</td>
+<td>70</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spoink.png'></td>
+<td>spoink<br> nº325<br>
+Psíquico </td>
+<td>60</td>
+<td>25</td>
+<td>35</td>
+<td>70</td>
+<td>80</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grumpig.png'></td>
+<td>grumpig<br> nº326<br>
+Psíquico </td>
+<td>80</td>
+<td>45</td>
+<td>65</td>
+<td>90</td>
+<td>110</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spinda.png'></td>
+<td>spinda<br> nº327<br>
+Normal </td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/trapinch.png'></td>
+<td>trapinch<br> nº328<br>
+Tierra </td>
+<td>45</td>
+<td>100</td>
+<td>45</td>
+<td>45</td>
+<td>45</td>
+<td>10
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vibrava.png'></td>
+<td>vibrava<br> nº329<br>
+Tierra </td>
+<td>50</td>
+<td>70</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/flygon.png'></td>
+<td>flygon<br> nº330<br>
+Tierra </td>
+<td>80</td>
+<td>100</td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cacnea.png'></td>
+<td>cacnea<br> nº331<br>
+Hierba </td>
+<td>50</td>
+<td>85</td>
+<td>40</td>
+<td>85</td>
+<td>40</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cacturne.png'></td>
+<td>cacturne<br> nº332<br>
+Hierba Oscuro </td>
+<td>70</td>
+<td>115</td>
+<td>60</td>
+<td>115</td>
+<td>60</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swablu.png'></td>
+<td>swablu<br> nº333<br>
+Normal Volador </td>
+<td>45</td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>75</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/altaria.png'></td>
+<td>altaria<br> nº334<br>
+Volador </td>
+<td>75</td>
+<td>70</td>
+<td>90</td>
+<td>70</td>
+<td>105</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zangoose.png'></td>
+<td>zangoose<br> nº335<br>
+Normal </td>
+<td>73</td>
+<td>115</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/seviper.png'></td>
+<td>seviper<br> nº336<br>
+Veneno </td>
+<td>73</td>
+<td>100</td>
+<td>60</td>
+<td>100</td>
+<td>60</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lunatone.png'></td>
+<td>lunatone<br> nº337<br>
+Roca Psíquico </td>
+<td>90</td>
+<td>55</td>
+<td>65</td>
+<td>95</td>
+<td>85</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/solrock.png'></td>
+<td>solrock<br> nº338<br>
+Roca Psíquico </td>
+<td>90</td>
+<td>95</td>
+<td>85</td>
+<td>55</td>
+<td>65</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/barboach.png'></td>
+<td>barboach<br> nº339<br>
+Agua Tierra </td>
+<td>50</td>
+<td>48</td>
+<td>43</td>
+<td>46</td>
+<td>41</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/whiscash.png'></td>
+<td>whiscash<br> nº340<br>
+Agua Tierra </td>
+<td>110</td>
+<td>78</td>
+<td>73</td>
+<td>76</td>
+<td>71</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/corphish.png'></td>
+<td>corphish<br> nº341<br>
+Agua </td>
+<td>43</td>
+<td>80</td>
+<td>65</td>
+<td>50</td>
+<td>35</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/crawdaunt.png'></td>
+<td>crawdaunt<br> nº342<br>
+Agua Oscuro </td>
+<td>63</td>
+<td>120</td>
+<td>85</td>
+<td>90</td>
+<td>55</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/baltoy.png'></td>
+<td>baltoy<br> nº343<br>
+Tierra Psíquico </td>
+<td>40</td>
+<td>40</td>
+<td>55</td>
+<td>40</td>
+<td>70</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/claydol.png'></td>
+<td>claydol<br> nº344<br>
+Tierra Psíquico </td>
+<td>60</td>
+<td>70</td>
+<td>105</td>
+<td>70</td>
+<td>120</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lileep.png'></td>
+<td>lileep<br> nº345<br>
+Roca Hierba </td>
+<td>66</td>
+<td>41</td>
+<td>77</td>
+<td>61</td>
+<td>87</td>
+<td>23
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cradily.png'></td>
+<td>cradily<br> nº346<br>
+Roca Hierba </td>
+<td>86</td>
+<td>81</td>
+<td>97</td>
+<td>81</td>
+<td>107</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/anorith.png'></td>
+<td>anorith<br> nº347<br>
+Roca Bicho </td>
+<td>45</td>
+<td>95</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/armaldo.png'></td>
+<td>armaldo<br> nº348<br>
+Roca Bicho </td>
+<td>75</td>
+<td>125</td>
+<td>100</td>
+<td>70</td>
+<td>80</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/feebas.png'></td>
+<td>feebas<br> nº349<br>
+Agua </td>
+<td>20</td>
+<td>15</td>
+<td>20</td>
+<td>10</td>
+<td>55</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/milotic.png'></td>
+<td>milotic<br> nº350<br>
+Agua </td>
+<td>95</td>
+<td>60</td>
+<td>79</td>
+<td>100</td>
+<td>125</td>
+<td>81
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/castform.png'></td>
+<td>castform<br> nº351<br>
+Normal </td>
+<td>70</td>
+<td>70</td>
+<td>70</td>
+<td>70</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kecleon.png'></td>
+<td>kecleon<br> nº352<br>
+Normal </td>
+<td>60</td>
+<td>90</td>
+<td>70</td>
+<td>60</td>
+<td>120</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shuppet.png'></td>
+<td>shuppet<br> nº353<br>
+</td>
+<td>44</td>
+<td>75</td>
+<td>35</td>
+<td>63</td>
+<td>33</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/banette.png'></td>
+<td>banette<br> nº354<br>
+</td>
+<td>64</td>
+<td>115</td>
+<td>65</td>
+<td>83</td>
+<td>63</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/duskull.png'></td>
+<td>duskull<br> nº355<br>
+</td>
+<td>20</td>
+<td>40</td>
+<td>90</td>
+<td>30</td>
+<td>90</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dusclops.png'></td>
+<td>dusclops<br> nº356<br>
+</td>
+<td>40</td>
+<td>70</td>
+<td>130</td>
+<td>60</td>
+<td>130</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tropius.png'></td>
+<td>tropius<br> nº357<br>
+Hierba Volador </td>
+<td>99</td>
+<td>68</td>
+<td>83</td>
+<td>72</td>
+<td>87</td>
+<td>51
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chimecho.png'></td>
+<td>chimecho<br> nº358<br>
+Psíquico </td>
+<td>75</td>
+<td>50</td>
+<td>80</td>
+<td>95</td>
+<td>90</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/absol.png'></td>
+<td>absol<br> nº359<br>
+Oscuro </td>
+<td>65</td>
+<td>130</td>
+<td>60</td>
+<td>75</td>
+<td>60</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wynaut.png'></td>
+<td>wynaut<br> nº360<br>
+Psíquico </td>
+<td>95</td>
+<td>23</td>
+<td>48</td>
+<td>23</td>
+<td>48</td>
+<td>23
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/snorunt.png'></td>
+<td>snorunt<br> nº361<br>
+Hielo </td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/glalie.png'></td>
+<td>glalie<br> nº362<br>
+Hielo </td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spheal.png'></td>
+<td>spheal<br> nº363<br>
+Hielo Agua </td>
+<td>70</td>
+<td>40</td>
+<td>50</td>
+<td>55</td>
+<td>50</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sealeo.png'></td>
+<td>sealeo<br> nº364<br>
+Hielo Agua </td>
+<td>90</td>
+<td>60</td>
+<td>70</td>
+<td>75</td>
+<td>70</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/walrein.png'></td>
+<td>walrein<br> nº365<br>
+Hielo Agua </td>
+<td>110</td>
+<td>80</td>
+<td>90</td>
+<td>95</td>
+<td>90</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/clamperl.png'></td>
+<td>clamperl<br> nº366<br>
+Agua </td>
+<td>35</td>
+<td>64</td>
+<td>85</td>
+<td>74</td>
+<td>55</td>
+<td>32
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/huntail.png'></td>
+<td>huntail<br> nº367<br>
+Agua </td>
+<td>55</td>
+<td>104</td>
+<td>105</td>
+<td>94</td>
+<td>75</td>
+<td>52
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gorebyss.png'></td>
+<td>gorebyss<br> nº368<br>
+Agua </td>
+<td>55</td>
+<td>84</td>
+<td>105</td>
+<td>114</td>
+<td>75</td>
+<td>52
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/relicanth.png'></td>
+<td>relicanth<br> nº369<br>
+Agua Roca </td>
+<td>100</td>
+<td>90</td>
+<td>130</td>
+<td>45</td>
+<td>65</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/luvdisc.png'></td>
+<td>luvdisc<br> nº370<br>
+Agua </td>
+<td>43</td>
+<td>30</td>
+<td>55</td>
+<td>40</td>
+<td>65</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bagon.png'></td>
+<td>bagon<br> nº371<br>
+</td>
+<td>45</td>
+<td>75</td>
+<td>60</td>
+<td>40</td>
+<td>30</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shelgon.png'></td>
+<td>shelgon<br> nº372<br>
+</td>
+<td>65</td>
+<td>95</td>
+<td>100</td>
+<td>60</td>
+<td>50</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/salamence.png'></td>
+<td>salamence<br> nº373<br>
+Volador </td>
+<td>95</td>
+<td>135</td>
+<td>80</td>
+<td>110</td>
+<td>80</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/beldum.png'></td>
+<td>beldum<br> nº374<br>
+Metal Psíquico </td>
+<td>40</td>
+<td>55</td>
+<td>80</td>
+<td>35</td>
+<td>60</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/metang.png'></td>
+<td>metang<br> nº375<br>
+Metal Psíquico </td>
+<td>60</td>
+<td>75</td>
+<td>100</td>
+<td>55</td>
+<td>80</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/metagross.png'></td>
+<td>metagross<br> nº376<br>
+Metal Psíquico </td>
+<td>80</td>
+<td>135</td>
+<td>130</td>
+<td>95</td>
+<td>90</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/regirock.png'></td>
+<td>regirock<br> nº377<br>
+Roca </td>
+<td>80</td>
+<td>100</td>
+<td>200</td>
+<td>50</td>
+<td>100</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/regice.png'></td>
+<td>regice<br> nº378<br>
+Hielo </td>
+<td>80</td>
+<td>50</td>
+<td>100</td>
+<td>100</td>
+<td>200</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/registeel.png'></td>
+<td>registeel<br> nº379<br>
+Metal </td>
+<td>80</td>
+<td>75</td>
+<td>150</td>
+<td>75</td>
+<td>150</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/latias.png'></td>
+<td>latias<br> nº380<br>
+Psíquico </td>
+<td>80</td>
+<td>80</td>
+<td>90</td>
+<td>110</td>
+<td>130</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/latios.png'></td>
+<td>latios<br> nº381<br>
+Psíquico </td>
+<td>80</td>
+<td>90</td>
+<td>80</td>
+<td>130</td>
+<td>110</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kyogre.png'></td>
+<td>kyogre<br> nº382<br>
+Agua </td>
+<td>100</td>
+<td>100</td>
+<td>90</td>
+<td>150</td>
+<td>140</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/groudon.png'></td>
+<td>groudon<br> nº383<br>
+Tierra </td>
+<td>100</td>
+<td>150</td>
+<td>140</td>
+<td>100</td>
+<td>90</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rayquaza.png'></td>
+<td>rayquaza<br> nº384<br>
+Volador </td>
+<td>105</td>
+<td>150</td>
+<td>90</td>
+<td>150</td>
+<td>90</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/jirachi.png'></td>
+<td>jirachi<br> nº385<br>
+Metal Psíquico </td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/turtwig.png'></td>
+<td>turtwig<br> nº387<br>
+Hierba </td>
+<td>55</td>
+<td>68</td>
+<td>64</td>
+<td>45</td>
+<td>55</td>
+<td>31
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grotle.png'></td>
+<td>grotle<br> nº388<br>
+Hierba </td>
+<td>75</td>
+<td>89</td>
+<td>85</td>
+<td>55</td>
+<td>65</td>
+<td>36
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/torterra.png'></td>
+<td>torterra<br> nº389<br>
+Hierba Tierra </td>
+<td>95</td>
+<td>109</td>
+<td>105</td>
+<td>75</td>
+<td>85</td>
+<td>56
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chimchar.png'></td>
+<td>chimchar<br> nº390<br>
+Fuego </td>
+<td>44</td>
+<td>58</td>
+<td>44</td>
+<td>58</td>
+<td>44</td>
+<td>61
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/monferno.png'></td>
+<td>monferno<br> nº391<br>
+Fuego Lucha </td>
+<td>64</td>
+<td>78</td>
+<td>52</td>
+<td>78</td>
+<td>52</td>
+<td>81
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/infernape.png'></td>
+<td>infernape<br> nº392<br>
+Fuego Lucha </td>
+<td>76</td>
+<td>104</td>
+<td>71</td>
+<td>104</td>
+<td>71</td>
+<td>108
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/piplup.png'></td>
+<td>piplup<br> nº393<br>
+Agua </td>
+<td>53</td>
+<td>51</td>
+<td>53</td>
+<td>61</td>
+<td>56</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/prinplup.png'></td>
+<td>prinplup<br> nº394<br>
+Agua </td>
+<td>64</td>
+<td>66</td>
+<td>68</td>
+<td>81</td>
+<td>76</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/empoleon.png'></td>
+<td>empoleon<br> nº395<br>
+Agua Metal </td>
+<td>84</td>
+<td>86</td>
+<td>88</td>
+<td>111</td>
+<td>101</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/starly.png'></td>
+<td>starly<br> nº396<br>
+Normal Volador </td>
+<td>40</td>
+<td>55</td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/staravia.png'></td>
+<td>staravia<br> nº397<br>
+Normal Volador </td>
+<td>55</td>
+<td>75</td>
+<td>50</td>
+<td>40</td>
+<td>40</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/staraptor.png'></td>
+<td>staraptor<br> nº398<br>
+Normal Volador </td>
+<td>85</td>
+<td>120</td>
+<td>70</td>
+<td>50</td>
+<td>60</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bidoof.png'></td>
+<td>bidoof<br> nº399<br>
+Normal </td>
+<td>59</td>
+<td>45</td>
+<td>40</td>
+<td>35</td>
+<td>40</td>
+<td>31
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bibarel.png'></td>
+<td>bibarel<br> nº400<br>
+Normal Agua </td>
+<td>79</td>
+<td>85</td>
+<td>60</td>
+<td>55</td>
+<td>60</td>
+<td>71
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kricketot.png'></td>
+<td>kricketot<br> nº401<br>
+Bicho </td>
+<td>37</td>
+<td>25</td>
+<td>41</td>
+<td>25</td>
+<td>41</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kricketune.png'></td>
+<td>kricketune<br> nº402<br>
+Bicho </td>
+<td>77</td>
+<td>85</td>
+<td>51</td>
+<td>55</td>
+<td>51</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shinx.png'></td>
+<td>shinx<br> nº403<br>
+Electrico </td>
+<td>45</td>
+<td>65</td>
+<td>34</td>
+<td>40</td>
+<td>34</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/luxio.png'></td>
+<td>luxio<br> nº404<br>
+Electrico </td>
+<td>60</td>
+<td>85</td>
+<td>49</td>
+<td>60</td>
+<td>49</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/luxray.png'></td>
+<td>luxray<br> nº405<br>
+Electrico </td>
+<td>80</td>
+<td>120</td>
+<td>79</td>
+<td>95</td>
+<td>79</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/budew.png'></td>
+<td>budew<br> nº406<br>
+Hierba Veneno </td>
+<td>40</td>
+<td>30</td>
+<td>35</td>
+<td>50</td>
+<td>70</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/roserade.png'></td>
+<td>roserade<br> nº407<br>
+Hierba Veneno </td>
+<td>60</td>
+<td>70</td>
+<td>65</td>
+<td>125</td>
+<td>105</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cranidos.png'></td>
+<td>cranidos<br> nº408<br>
+Roca </td>
+<td>67</td>
+<td>125</td>
+<td>40</td>
+<td>30</td>
+<td>30</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rampardos.png'></td>
+<td>rampardos<br> nº409<br>
+Roca </td>
+<td>97</td>
+<td>165</td>
+<td>60</td>
+<td>65</td>
+<td>50</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shieldon.png'></td>
+<td>shieldon<br> nº410<br>
+Roca Metal </td>
+<td>30</td>
+<td>42</td>
+<td>118</td>
+<td>42</td>
+<td>88</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bastiodon.png'></td>
+<td>bastiodon<br> nº411<br>
+Roca Metal </td>
+<td>60</td>
+<td>52</td>
+<td>168</td>
+<td>47</td>
+<td>138</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/burmy.png'></td>
+<td>burmy<br> nº412<br>
+Bicho </td>
+<td>40</td>
+<td>29</td>
+<td>45</td>
+<td>29</td>
+<td>45</td>
+<td>36
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mothim.png'></td>
+<td>mothim<br> nº414<br>
+Bicho Volador </td>
+<td>70</td>
+<td>94</td>
+<td>50</td>
+<td>94</td>
+<td>50</td>
+<td>66
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/combee.png'></td>
+<td>combee<br> nº415<br>
+Bicho Volador </td>
+<td>30</td>
+<td>30</td>
+<td>42</td>
+<td>30</td>
+<td>42</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vespiquen.png'></td>
+<td>vespiquen<br> nº416<br>
+Bicho Volador </td>
+<td>70</td>
+<td>80</td>
+<td>102</td>
+<td>80</td>
+<td>102</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pachirisu.png'></td>
+<td>pachirisu<br> nº417<br>
+Electrico </td>
+<td>60</td>
+<td>45</td>
+<td>70</td>
+<td>45</td>
+<td>90</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/buizel.png'></td>
+<td>buizel<br> nº418<br>
+Agua </td>
+<td>55</td>
+<td>65</td>
+<td>35</td>
+<td>60</td>
+<td>30</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/floatzel.png'></td>
+<td>floatzel<br> nº419<br>
+Agua </td>
+<td>85</td>
+<td>105</td>
+<td>55</td>
+<td>85</td>
+<td>50</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cherubi.png'></td>
+<td>cherubi<br> nº420<br>
+Hierba </td>
+<td>45</td>
+<td>35</td>
+<td>45</td>
+<td>62</td>
+<td>53</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cherrim.png'></td>
+<td>cherrim<br> nº421<br>
+Hierba </td>
+<td>70</td>
+<td>60</td>
+<td>70</td>
+<td>87</td>
+<td>78</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shellos.png'></td>
+<td>shellos<br> nº422<br>
+Agua </td>
+<td>76</td>
+<td>48</td>
+<td>48</td>
+<td>57</td>
+<td>62</td>
+<td>34
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gastrodon.png'></td>
+<td>gastrodon<br> nº423<br>
+Agua Tierra </td>
+<td>111</td>
+<td>83</td>
+<td>68</td>
+<td>92</td>
+<td>82</td>
+<td>39
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ambipom.png'></td>
+<td>ambipom<br> nº424<br>
+Normal </td>
+<td>75</td>
+<td>100</td>
+<td>66</td>
+<td>60</td>
+<td>66</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drifloon.png'></td>
+<td>drifloon<br> nº425<br>
+Volador </td>
+<td>90</td>
+<td>50</td>
+<td>34</td>
+<td>60</td>
+<td>44</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drifblim.png'></td>
+<td>drifblim<br> nº426<br>
+Volador </td>
+<td>150</td>
+<td>80</td>
+<td>44</td>
+<td>90</td>
+<td>54</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/buneary.png'></td>
+<td>buneary<br> nº427<br>
+Normal </td>
+<td>55</td>
+<td>66</td>
+<td>44</td>
+<td>44</td>
+<td>56</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lopunny.png'></td>
+<td>lopunny<br> nº428<br>
+Normal </td>
+<td>65</td>
+<td>76</td>
+<td>84</td>
+<td>54</td>
+<td>96</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mismagius.png'></td>
+<td>mismagius<br> nº429<br>
+</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>105</td>
+<td>105</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/honchkrow.png'></td>
+<td>honchkrow<br> nº430<br>
+Oscuro Volador </td>
+<td>100</td>
+<td>125</td>
+<td>52</td>
+<td>105</td>
+<td>52</td>
+<td>71
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/glameow.png'></td>
+<td>glameow<br> nº431<br>
+Normal </td>
+<td>49</td>
+<td>55</td>
+<td>42</td>
+<td>42</td>
+<td>37</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/purugly.png'></td>
+<td>purugly<br> nº432<br>
+Normal </td>
+<td>71</td>
+<td>82</td>
+<td>64</td>
+<td>64</td>
+<td>59</td>
+<td>112
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chingling.png'></td>
+<td>chingling<br> nº433<br>
+Psíquico </td>
+<td>45</td>
+<td>30</td>
+<td>50</td>
+<td>65</td>
+<td>50</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stunky.png'></td>
+<td>stunky<br> nº434<br>
+Veneno Oscuro </td>
+<td>63</td>
+<td>63</td>
+<td>47</td>
+<td>41</td>
+<td>41</td>
+<td>74
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skuntank.png'></td>
+<td>skuntank<br> nº435<br>
+Veneno Oscuro </td>
+<td>103</td>
+<td>93</td>
+<td>67</td>
+<td>71</td>
+<td>61</td>
+<td>84
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bronzor.png'></td>
+<td>bronzor<br> nº436<br>
+Metal Psíquico </td>
+<td>57</td>
+<td>24</td>
+<td>86</td>
+<td>24</td>
+<td>86</td>
+<td>23
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bronzong.png'></td>
+<td>bronzong<br> nº437<br>
+Metal Psíquico </td>
+<td>67</td>
+<td>89</td>
+<td>116</td>
+<td>79</td>
+<td>116</td>
+<td>33
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bonsly.png'></td>
+<td>bonsly<br> nº438<br>
+Roca </td>
+<td>50</td>
+<td>80</td>
+<td>95</td>
+<td>10</td>
+<td>45</td>
+<td>10
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/happiny.png'></td>
+<td>happiny<br> nº440<br>
+Normal </td>
+<td>100</td>
+<td>5</td>
+<td>5</td>
+<td>15</td>
+<td>65</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chatot.png'></td>
+<td>chatot<br> nº441<br>
+Normal Volador </td>
+<td>76</td>
+<td>65</td>
+<td>45</td>
+<td>92</td>
+<td>42</td>
+<td>91
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spiritomb.png'></td>
+<td>spiritomb<br> nº442<br>
+Oscuro </td>
+<td>50</td>
+<td>92</td>
+<td>108</td>
+<td>92</td>
+<td>108</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gible.png'></td>
+<td>gible<br> nº443<br>
+Tierra </td>
+<td>58</td>
+<td>70</td>
+<td>45</td>
+<td>40</td>
+<td>45</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gabite.png'></td>
+<td>gabite<br> nº444<br>
+Tierra </td>
+<td>68</td>
+<td>90</td>
+<td>65</td>
+<td>50</td>
+<td>55</td>
+<td>82
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/garchomp.png'></td>
+<td>garchomp<br> nº445<br>
+Tierra </td>
+<td>108</td>
+<td>130</td>
+<td>95</td>
+<td>80</td>
+<td>85</td>
+<td>102
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/munchlax.png'></td>
+<td>munchlax<br> nº446<br>
+Normal </td>
+<td>135</td>
+<td>85</td>
+<td>40</td>
+<td>40</td>
+<td>85</td>
+<td>5
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/riolu.png'></td>
+<td>riolu<br> nº447<br>
+Lucha </td>
+<td>40</td>
+<td>70</td>
+<td>40</td>
+<td>35</td>
+<td>40</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lucario.png'></td>
+<td>lucario<br> nº448<br>
+Lucha Metal </td>
+<td>70</td>
+<td>110</td>
+<td>70</td>
+<td>115</td>
+<td>70</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hippopotas.png'></td>
+<td>hippopotas<br> nº449<br>
+Tierra </td>
+<td>68</td>
+<td>72</td>
+<td>78</td>
+<td>38</td>
+<td>42</td>
+<td>32
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hippowdon.png'></td>
+<td>hippowdon<br> nº450<br>
+Tierra </td>
+<td>108</td>
+<td>112</td>
+<td>118</td>
+<td>68</td>
+<td>72</td>
+<td>47
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skorupi.png'></td>
+<td>skorupi<br> nº451<br>
+Veneno Bicho </td>
+<td>40</td>
+<td>50</td>
+<td>90</td>
+<td>30</td>
+<td>55</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drapion.png'></td>
+<td>drapion<br> nº452<br>
+Veneno Oscuro </td>
+<td>70</td>
+<td>90</td>
+<td>110</td>
+<td>60</td>
+<td>75</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/croagunk.png'></td>
+<td>croagunk<br> nº453<br>
+Veneno Lucha </td>
+<td>48</td>
+<td>61</td>
+<td>40</td>
+<td>61</td>
+<td>40</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/toxicroak.png'></td>
+<td>toxicroak<br> nº454<br>
+Veneno Lucha </td>
+<td>83</td>
+<td>106</td>
+<td>65</td>
+<td>86</td>
+<td>65</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/carnivine.png'></td>
+<td>carnivine<br> nº455<br>
+Hierba </td>
+<td>74</td>
+<td>100</td>
+<td>72</td>
+<td>90</td>
+<td>72</td>
+<td>46
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/finneon.png'></td>
+<td>finneon<br> nº456<br>
+Agua </td>
+<td>49</td>
+<td>49</td>
+<td>56</td>
+<td>49</td>
+<td>61</td>
+<td>66
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lumineon.png'></td>
+<td>lumineon<br> nº457<br>
+Agua </td>
+<td>69</td>
+<td>69</td>
+<td>76</td>
+<td>69</td>
+<td>86</td>
+<td>91
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mantyke.png'></td>
+<td>mantyke<br> nº458<br>
+Agua Volador </td>
+<td>45</td>
+<td>20</td>
+<td>50</td>
+<td>60</td>
+<td>120</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/snover.png'></td>
+<td>snover<br> nº459<br>
+Hierba Hielo </td>
+<td>60</td>
+<td>62</td>
+<td>50</td>
+<td>62</td>
+<td>60</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/abomasnow.png'></td>
+<td>abomasnow<br> nº460<br>
+Hierba Hielo </td>
+<td>90</td>
+<td>92</td>
+<td>75</td>
+<td>92</td>
+<td>85</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/weavile.png'></td>
+<td>weavile<br> nº461<br>
+Oscuro Hielo </td>
+<td>70</td>
+<td>120</td>
+<td>65</td>
+<td>45</td>
+<td>85</td>
+<td>125
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magnezone.png'></td>
+<td>magnezone<br> nº462<br>
+Electrico Metal </td>
+<td>70</td>
+<td>70</td>
+<td>115</td>
+<td>130</td>
+<td>90</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lickilicky.png'></td>
+<td>lickilicky<br> nº463<br>
+Normal </td>
+<td>110</td>
+<td>85</td>
+<td>95</td>
+<td>80</td>
+<td>95</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rhyperior.png'></td>
+<td>rhyperior<br> nº464<br>
+Tierra Roca </td>
+<td>115</td>
+<td>140</td>
+<td>130</td>
+<td>55</td>
+<td>55</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tangrowth.png'></td>
+<td>tangrowth<br> nº465<br>
+Hierba </td>
+<td>100</td>
+<td>100</td>
+<td>125</td>
+<td>110</td>
+<td>50</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/electivire.png'></td>
+<td>electivire<br> nº466<br>
+Electrico </td>
+<td>75</td>
+<td>123</td>
+<td>67</td>
+<td>95</td>
+<td>85</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magmortar.png'></td>
+<td>magmortar<br> nº467<br>
+Fuego </td>
+<td>75</td>
+<td>95</td>
+<td>67</td>
+<td>125</td>
+<td>95</td>
+<td>83
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/togekiss.png'></td>
+<td>togekiss<br> nº468<br>
+Hada Volador </td>
+<td>85</td>
+<td>50</td>
+<td>95</td>
+<td>120</td>
+<td>115</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/yanmega.png'></td>
+<td>yanmega<br> nº469<br>
+Bicho Volador </td>
+<td>86</td>
+<td>76</td>
+<td>86</td>
+<td>116</td>
+<td>56</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/leafeon.png'></td>
+<td>leafeon<br> nº470<br>
+Hierba </td>
+<td>65</td>
+<td>110</td>
+<td>130</td>
+<td>60</td>
+<td>65</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/glaceon.png'></td>
+<td>glaceon<br> nº471<br>
+Hielo </td>
+<td>65</td>
+<td>60</td>
+<td>110</td>
+<td>130</td>
+<td>95</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gliscor.png'></td>
+<td>gliscor<br> nº472<br>
+Tierra Volador </td>
+<td>75</td>
+<td>95</td>
+<td>125</td>
+<td>45</td>
+<td>75</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mamoswine.png'></td>
+<td>mamoswine<br> nº473<br>
+Hielo Tierra </td>
+<td>110</td>
+<td>130</td>
+<td>80</td>
+<td>70</td>
+<td>60</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gallade.png'></td>
+<td>gallade<br> nº475<br>
+Psíquico Lucha </td>
+<td>68</td>
+<td>125</td>
+<td>65</td>
+<td>65</td>
+<td>115</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/probopass.png'></td>
+<td>probopass<br> nº476<br>
+Roca Metal </td>
+<td>60</td>
+<td>55</td>
+<td>145</td>
+<td>75</td>
+<td>150</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dusknoir.png'></td>
+<td>dusknoir<br> nº477<br>
+</td>
+<td>45</td>
+<td>100</td>
+<td>135</td>
+<td>65</td>
+<td>135</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/froslass.png'></td>
+<td>froslass<br> nº478<br>
+Hielo </td>
+<td>70</td>
+<td>80</td>
+<td>70</td>
+<td>80</td>
+<td>70</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rotom.png'></td>
+<td>rotom<br> nº479<br>
+Electrico </td>
+<td>50</td>
+<td>50</td>
+<td>77</td>
+<td>95</td>
+<td>77</td>
+<td>91
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/uxie.png'></td>
+<td>uxie<br> nº480<br>
+Psíquico </td>
+<td>75</td>
+<td>75</td>
+<td>130</td>
+<td>75</td>
+<td>130</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mesprit.png'></td>
+<td>mesprit<br> nº481<br>
+Psíquico </td>
+<td>80</td>
+<td>105</td>
+<td>105</td>
+<td>105</td>
+<td>105</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/azelf.png'></td>
+<td>azelf<br> nº482<br>
+Psíquico </td>
+<td>75</td>
+<td>125</td>
+<td>70</td>
+<td>125</td>
+<td>70</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dialga.png'></td>
+<td>dialga<br> nº483<br>
+Metal </td>
+<td>100</td>
+<td>120</td>
+<td>120</td>
+<td>150</td>
+<td>100</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/palkia.png'></td>
+<td>palkia<br> nº484<br>
+Agua </td>
+<td>90</td>
+<td>120</td>
+<td>100</td>
+<td>150</td>
+<td>120</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/heatran.png'></td>
+<td>heatran<br> nº485<br>
+Fuego Metal </td>
+<td>91</td>
+<td>90</td>
+<td>106</td>
+<td>130</td>
+<td>106</td>
+<td>77
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/regigigas.png'></td>
+<td>regigigas<br> nº486<br>
+Normal </td>
+<td>110</td>
+<td>160</td>
+<td>110</td>
+<td>80</td>
+<td>110</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cresselia.png'></td>
+<td>cresselia<br> nº488<br>
+Psíquico </td>
+<td>120</td>
+<td>70</td>
+<td>120</td>
+<td>75</td>
+<td>130</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/phione.png'></td>
+<td>phione<br> nº489<br>
+Agua </td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>80</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/manaphy.png'></td>
+<td>manaphy<br> nº490<br>
+Agua </td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/darkrai.png'></td>
+<td>darkrai<br> nº491<br>
+Oscuro </td>
+<td>70</td>
+<td>90</td>
+<td>90</td>
+<td>135</td>
+<td>90</td>
+<td>125
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/arceus.png'></td>
+<td>arceus<br> nº493<br>
+Normal </td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/victini.png'></td>
+<td>victini<br> nº494<br>
+Psíquico Fuego </td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/snivy.png'></td>
+<td>snivy<br> nº495<br>
+Hierba </td>
+<td>45</td>
+<td>45</td>
+<td>55</td>
+<td>45</td>
+<td>55</td>
+<td>63
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/servine.png'></td>
+<td>servine<br> nº496<br>
+Hierba </td>
+<td>60</td>
+<td>60</td>
+<td>75</td>
+<td>60</td>
+<td>75</td>
+<td>83
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/serperior.png'></td>
+<td>serperior<br> nº497<br>
+Hierba </td>
+<td>75</td>
+<td>75</td>
+<td>95</td>
+<td>75</td>
+<td>95</td>
+<td>113
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tepig.png'></td>
+<td>tepig<br> nº498<br>
+Fuego </td>
+<td>65</td>
+<td>63</td>
+<td>45</td>
+<td>45</td>
+<td>45</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pignite.png'></td>
+<td>pignite<br> nº499<br>
+Fuego Lucha </td>
+<td>90</td>
+<td>93</td>
+<td>55</td>
+<td>70</td>
+<td>55</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/emboar.png'></td>
+<td>emboar<br> nº500<br>
+Fuego Lucha </td>
+<td>110</td>
+<td>123</td>
+<td>65</td>
+<td>100</td>
+<td>65</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/oshawott.png'></td>
+<td>oshawott<br> nº501<br>
+Agua </td>
+<td>55</td>
+<td>55</td>
+<td>45</td>
+<td>63</td>
+<td>45</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dewott.png'></td>
+<td>dewott<br> nº502<br>
+Agua </td>
+<td>75</td>
+<td>75</td>
+<td>60</td>
+<td>83</td>
+<td>60</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/samurott.png'></td>
+<td>samurott<br> nº503<br>
+Agua </td>
+<td>95</td>
+<td>100</td>
+<td>85</td>
+<td>108</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/patrat.png'></td>
+<td>patrat<br> nº504<br>
+Normal </td>
+<td>45</td>
+<td>55</td>
+<td>39</td>
+<td>35</td>
+<td>39</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/watchog.png'></td>
+<td>watchog<br> nº505<br>
+Normal </td>
+<td>60</td>
+<td>85</td>
+<td>69</td>
+<td>60</td>
+<td>69</td>
+<td>77
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lillipup.png'></td>
+<td>lillipup<br> nº506<br>
+Normal </td>
+<td>45</td>
+<td>60</td>
+<td>45</td>
+<td>25</td>
+<td>45</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/herdier.png'></td>
+<td>herdier<br> nº507<br>
+Normal </td>
+<td>65</td>
+<td>80</td>
+<td>65</td>
+<td>35</td>
+<td>65</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stoutland.png'></td>
+<td>stoutland<br> nº508<br>
+Normal </td>
+<td>85</td>
+<td>110</td>
+<td>90</td>
+<td>45</td>
+<td>90</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/purrloin.png'></td>
+<td>purrloin<br> nº509<br>
+Oscuro </td>
+<td>41</td>
+<td>50</td>
+<td>37</td>
+<td>50</td>
+<td>37</td>
+<td>66
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/liepard.png'></td>
+<td>liepard<br> nº510<br>
+Oscuro </td>
+<td>64</td>
+<td>88</td>
+<td>50</td>
+<td>88</td>
+<td>50</td>
+<td>106
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pansage.png'></td>
+<td>pansage<br> nº511<br>
+Hierba </td>
+<td>50</td>
+<td>53</td>
+<td>48</td>
+<td>53</td>
+<td>48</td>
+<td>64
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/simisage.png'></td>
+<td>simisage<br> nº512<br>
+Hierba </td>
+<td>75</td>
+<td>98</td>
+<td>63</td>
+<td>98</td>
+<td>63</td>
+<td>101
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pansear.png'></td>
+<td>pansear<br> nº513<br>
+Fuego </td>
+<td>50</td>
+<td>53</td>
+<td>48</td>
+<td>53</td>
+<td>48</td>
+<td>64
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/simisear.png'></td>
+<td>simisear<br> nº514<br>
+Fuego </td>
+<td>75</td>
+<td>98</td>
+<td>63</td>
+<td>98</td>
+<td>63</td>
+<td>101
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/panpour.png'></td>
+<td>panpour<br> nº515<br>
+Agua </td>
+<td>50</td>
+<td>53</td>
+<td>48</td>
+<td>53</td>
+<td>48</td>
+<td>64
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/simipour.png'></td>
+<td>simipour<br> nº516<br>
+Agua </td>
+<td>75</td>
+<td>98</td>
+<td>63</td>
+<td>98</td>
+<td>63</td>
+<td>101
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/munna.png'></td>
+<td>munna<br> nº517<br>
+Psíquico </td>
+<td>76</td>
+<td>25</td>
+<td>45</td>
+<td>67</td>
+<td>55</td>
+<td>24
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/musharna.png'></td>
+<td>musharna<br> nº518<br>
+Psíquico </td>
+<td>116</td>
+<td>55</td>
+<td>85</td>
+<td>107</td>
+<td>95</td>
+<td>29
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pidove.png'></td>
+<td>pidove<br> nº519<br>
+Normal Volador </td>
+<td>50</td>
+<td>55</td>
+<td>50</td>
+<td>36</td>
+<td>30</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tranquill.png'></td>
+<td>tranquill<br> nº520<br>
+Normal Volador </td>
+<td>62</td>
+<td>77</td>
+<td>62</td>
+<td>50</td>
+<td>42</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/unfezant.png'></td>
+<td>unfezant<br> nº521<br>
+Normal Volador </td>
+<td>80</td>
+<td>115</td>
+<td>80</td>
+<td>65</td>
+<td>55</td>
+<td>93
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/blitzle.png'></td>
+<td>blitzle<br> nº522<br>
+Electrico </td>
+<td>45</td>
+<td>60</td>
+<td>32</td>
+<td>50</td>
+<td>32</td>
+<td>76
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zebstrika.png'></td>
+<td>zebstrika<br> nº523<br>
+Electrico </td>
+<td>75</td>
+<td>100</td>
+<td>63</td>
+<td>80</td>
+<td>63</td>
+<td>116
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/roggenrola.png'></td>
+<td>roggenrola<br> nº524<br>
+Roca </td>
+<td>55</td>
+<td>75</td>
+<td>85</td>
+<td>25</td>
+<td>25</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/boldore.png'></td>
+<td>boldore<br> nº525<br>
+Roca </td>
+<td>70</td>
+<td>105</td>
+<td>105</td>
+<td>50</td>
+<td>40</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gigalith.png'></td>
+<td>gigalith<br> nº526<br>
+Roca </td>
+<td>85</td>
+<td>135</td>
+<td>130</td>
+<td>60</td>
+<td>80</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/woobat.png'></td>
+<td>woobat<br> nº527<br>
+Psíquico Volador </td>
+<td>65</td>
+<td>45</td>
+<td>43</td>
+<td>55</td>
+<td>43</td>
+<td>72
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swoobat.png'></td>
+<td>swoobat<br> nº528<br>
+Psíquico Volador </td>
+<td>67</td>
+<td>57</td>
+<td>55</td>
+<td>77</td>
+<td>55</td>
+<td>114
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drilbur.png'></td>
+<td>drilbur<br> nº529<br>
+Tierra </td>
+<td>60</td>
+<td>85</td>
+<td>40</td>
+<td>30</td>
+<td>45</td>
+<td>68
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/excadrill.png'></td>
+<td>excadrill<br> nº530<br>
+Tierra Metal </td>
+<td>110</td>
+<td>135</td>
+<td>60</td>
+<td>50</td>
+<td>65</td>
+<td>88
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/audino.png'></td>
+<td>audino<br> nº531<br>
+Normal </td>
+<td>103</td>
+<td>60</td>
+<td>86</td>
+<td>60</td>
+<td>86</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/timburr.png'></td>
+<td>timburr<br> nº532<br>
+Lucha </td>
+<td>75</td>
+<td>80</td>
+<td>55</td>
+<td>25</td>
+<td>35</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gurdurr.png'></td>
+<td>gurdurr<br> nº533<br>
+Lucha </td>
+<td>85</td>
+<td>105</td>
+<td>85</td>
+<td>40</td>
+<td>50</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/conkeldurr.png'></td>
+<td>conkeldurr<br> nº534<br>
+Lucha </td>
+<td>105</td>
+<td>140</td>
+<td>95</td>
+<td>55</td>
+<td>65</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tympole.png'></td>
+<td>tympole<br> nº535<br>
+Agua </td>
+<td>50</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>40</td>
+<td>64
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/palpitoad.png'></td>
+<td>palpitoad<br> nº536<br>
+Agua Tierra </td>
+<td>75</td>
+<td>65</td>
+<td>55</td>
+<td>65</td>
+<td>55</td>
+<td>69
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/seismitoad.png'></td>
+<td>seismitoad<br> nº537<br>
+Agua Tierra </td>
+<td>105</td>
+<td>95</td>
+<td>75</td>
+<td>85</td>
+<td>75</td>
+<td>74
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/throh.png'></td>
+<td>throh<br> nº538<br>
+Lucha </td>
+<td>120</td>
+<td>100</td>
+<td>85</td>
+<td>30</td>
+<td>85</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sawk.png'></td>
+<td>sawk<br> nº539<br>
+Lucha </td>
+<td>75</td>
+<td>125</td>
+<td>75</td>
+<td>30</td>
+<td>75</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sewaddle.png'></td>
+<td>sewaddle<br> nº540<br>
+Bicho Hierba </td>
+<td>45</td>
+<td>53</td>
+<td>70</td>
+<td>40</td>
+<td>60</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swadloon.png'></td>
+<td>swadloon<br> nº541<br>
+Bicho Hierba </td>
+<td>55</td>
+<td>63</td>
+<td>90</td>
+<td>50</td>
+<td>80</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/leavanny.png'></td>
+<td>leavanny<br> nº542<br>
+Bicho Hierba </td>
+<td>75</td>
+<td>103</td>
+<td>80</td>
+<td>70</td>
+<td>80</td>
+<td>92
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/venipede.png'></td>
+<td>venipede<br> nº543<br>
+Bicho Veneno </td>
+<td>30</td>
+<td>45</td>
+<td>59</td>
+<td>30</td>
+<td>39</td>
+<td>57
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/whirlipede.png'></td>
+<td>whirlipede<br> nº544<br>
+Bicho Veneno </td>
+<td>40</td>
+<td>55</td>
+<td>99</td>
+<td>40</td>
+<td>79</td>
+<td>47
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scolipede.png'></td>
+<td>scolipede<br> nº545<br>
+Bicho Veneno </td>
+<td>60</td>
+<td>100</td>
+<td>89</td>
+<td>55</td>
+<td>69</td>
+<td>112
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cottonee.png'></td>
+<td>cottonee<br> nº546<br>
+Hierba Hada </td>
+<td>40</td>
+<td>27</td>
+<td>60</td>
+<td>37</td>
+<td>50</td>
+<td>66
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/whimsicott.png'></td>
+<td>whimsicott<br> nº547<br>
+Hierba Hada </td>
+<td>60</td>
+<td>67</td>
+<td>85</td>
+<td>77</td>
+<td>75</td>
+<td>116
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/petilil.png'></td>
+<td>petilil<br> nº548<br>
+Hierba </td>
+<td>45</td>
+<td>35</td>
+<td>50</td>
+<td>70</td>
+<td>50</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lilligant.png'></td>
+<td>lilligant<br> nº549<br>
+Hierba </td>
+<td>70</td>
+<td>60</td>
+<td>75</td>
+<td>110</td>
+<td>75</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sandile.png'></td>
+<td>sandile<br> nº551<br>
+Tierra Oscuro </td>
+<td>50</td>
+<td>72</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/krokorok.png'></td>
+<td>krokorok<br> nº552<br>
+Tierra Oscuro </td>
+<td>60</td>
+<td>82</td>
+<td>45</td>
+<td>45</td>
+<td>45</td>
+<td>74
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/krookodile.png'></td>
+<td>krookodile<br> nº553<br>
+Tierra Oscuro </td>
+<td>95</td>
+<td>117</td>
+<td>80</td>
+<td>65</td>
+<td>70</td>
+<td>92
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/darumaka.png'></td>
+<td>darumaka<br> nº554<br>
+Fuego </td>
+<td>70</td>
+<td>90</td>
+<td>45</td>
+<td>15</td>
+<td>45</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/maractus.png'></td>
+<td>maractus<br> nº556<br>
+Hierba </td>
+<td>75</td>
+<td>86</td>
+<td>67</td>
+<td>106</td>
+<td>67</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dwebble.png'></td>
+<td>dwebble<br> nº557<br>
+Bicho Roca </td>
+<td>50</td>
+<td>65</td>
+<td>85</td>
+<td>35</td>
+<td>35</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/crustle.png'></td>
+<td>crustle<br> nº558<br>
+Bicho Roca </td>
+<td>70</td>
+<td>105</td>
+<td>125</td>
+<td>65</td>
+<td>75</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scraggy.png'></td>
+<td>scraggy<br> nº559<br>
+Oscuro Lucha </td>
+<td>50</td>
+<td>75</td>
+<td>70</td>
+<td>35</td>
+<td>70</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scrafty.png'></td>
+<td>scrafty<br> nº560<br>
+Oscuro Lucha </td>
+<td>65</td>
+<td>90</td>
+<td>115</td>
+<td>45</td>
+<td>115</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sigilyph.png'></td>
+<td>sigilyph<br> nº561<br>
+Psíquico Volador </td>
+<td>72</td>
+<td>58</td>
+<td>80</td>
+<td>103</td>
+<td>80</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/yamask.png'></td>
+<td>yamask<br> nº562<br>
+</td>
+<td>38</td>
+<td>30</td>
+<td>85</td>
+<td>55</td>
+<td>65</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cofagrigus.png'></td>
+<td>cofagrigus<br> nº563<br>
+</td>
+<td>58</td>
+<td>50</td>
+<td>145</td>
+<td>95</td>
+<td>105</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tirtouga.png'></td>
+<td>tirtouga<br> nº564<br>
+Agua Roca </td>
+<td>54</td>
+<td>78</td>
+<td>103</td>
+<td>53</td>
+<td>45</td>
+<td>22
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/carracosta.png'></td>
+<td>carracosta<br> nº565<br>
+Agua Roca </td>
+<td>74</td>
+<td>108</td>
+<td>133</td>
+<td>83</td>
+<td>65</td>
+<td>32
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/archen.png'></td>
+<td>archen<br> nº566<br>
+Roca Volador </td>
+<td>55</td>
+<td>112</td>
+<td>45</td>
+<td>74</td>
+<td>45</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/archeops.png'></td>
+<td>archeops<br> nº567<br>
+Roca Volador </td>
+<td>75</td>
+<td>140</td>
+<td>65</td>
+<td>112</td>
+<td>65</td>
+<td>110
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/trubbish.png'></td>
+<td>trubbish<br> nº568<br>
+Veneno </td>
+<td>50</td>
+<td>50</td>
+<td>62</td>
+<td>40</td>
+<td>62</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/garbodor.png'></td>
+<td>garbodor<br> nº569<br>
+Veneno </td>
+<td>80</td>
+<td>95</td>
+<td>82</td>
+<td>60</td>
+<td>82</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zorua.png'></td>
+<td>zorua<br> nº570<br>
+Oscuro </td>
+<td>40</td>
+<td>65</td>
+<td>40</td>
+<td>80</td>
+<td>40</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zoroark.png'></td>
+<td>zoroark<br> nº571<br>
+Oscuro </td>
+<td>60</td>
+<td>105</td>
+<td>60</td>
+<td>120</td>
+<td>60</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/minccino.png'></td>
+<td>minccino<br> nº572<br>
+Normal </td>
+<td>55</td>
+<td>50</td>
+<td>40</td>
+<td>40</td>
+<td>40</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cinccino.png'></td>
+<td>cinccino<br> nº573<br>
+Normal </td>
+<td>75</td>
+<td>95</td>
+<td>60</td>
+<td>65</td>
+<td>60</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gothita.png'></td>
+<td>gothita<br> nº574<br>
+Psíquico </td>
+<td>45</td>
+<td>30</td>
+<td>50</td>
+<td>55</td>
+<td>65</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gothorita.png'></td>
+<td>gothorita<br> nº575<br>
+Psíquico </td>
+<td>60</td>
+<td>45</td>
+<td>70</td>
+<td>75</td>
+<td>85</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gothitelle.png'></td>
+<td>gothitelle<br> nº576<br>
+Psíquico </td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>95</td>
+<td>110</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/solosis.png'></td>
+<td>solosis<br> nº577<br>
+Psíquico </td>
+<td>45</td>
+<td>30</td>
+<td>40</td>
+<td>105</td>
+<td>50</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/duosion.png'></td>
+<td>duosion<br> nº578<br>
+Psíquico </td>
+<td>65</td>
+<td>40</td>
+<td>50</td>
+<td>125</td>
+<td>60</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/reuniclus.png'></td>
+<td>reuniclus<br> nº579<br>
+Psíquico </td>
+<td>110</td>
+<td>65</td>
+<td>75</td>
+<td>125</td>
+<td>85</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ducklett.png'></td>
+<td>ducklett<br> nº580<br>
+Agua Volador </td>
+<td>62</td>
+<td>44</td>
+<td>50</td>
+<td>44</td>
+<td>50</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swanna.png'></td>
+<td>swanna<br> nº581<br>
+Agua Volador </td>
+<td>75</td>
+<td>87</td>
+<td>63</td>
+<td>87</td>
+<td>63</td>
+<td>98
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vanillite.png'></td>
+<td>vanillite<br> nº582<br>
+Hielo </td>
+<td>36</td>
+<td>50</td>
+<td>50</td>
+<td>65</td>
+<td>60</td>
+<td>44
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vanillish.png'></td>
+<td>vanillish<br> nº583<br>
+Hielo </td>
+<td>51</td>
+<td>65</td>
+<td>65</td>
+<td>80</td>
+<td>75</td>
+<td>59
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vanilluxe.png'></td>
+<td>vanilluxe<br> nº584<br>
+Hielo </td>
+<td>71</td>
+<td>95</td>
+<td>85</td>
+<td>110</td>
+<td>95</td>
+<td>79
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/deerling.png'></td>
+<td>deerling<br> nº585<br>
+Normal Hierba </td>
+<td>60</td>
+<td>60</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sawsbuck.png'></td>
+<td>sawsbuck<br> nº586<br>
+Normal Hierba </td>
+<td>80</td>
+<td>100</td>
+<td>70</td>
+<td>60</td>
+<td>70</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/emolga.png'></td>
+<td>emolga<br> nº587<br>
+Electrico Volador </td>
+<td>55</td>
+<td>75</td>
+<td>60</td>
+<td>75</td>
+<td>60</td>
+<td>103
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/karrablast.png'></td>
+<td>karrablast<br> nº588<br>
+Bicho </td>
+<td>50</td>
+<td>75</td>
+<td>45</td>
+<td>40</td>
+<td>45</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/escavalier.png'></td>
+<td>escavalier<br> nº589<br>
+Bicho Metal </td>
+<td>70</td>
+<td>135</td>
+<td>105</td>
+<td>60</td>
+<td>105</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/foongus.png'></td>
+<td>foongus<br> nº590<br>
+Hierba Veneno </td>
+<td>69</td>
+<td>55</td>
+<td>45</td>
+<td>55</td>
+<td>55</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/amoonguss.png'></td>
+<td>amoonguss<br> nº591<br>
+Hierba Veneno </td>
+<td>114</td>
+<td>85</td>
+<td>70</td>
+<td>85</td>
+<td>80</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/frillish.png'></td>
+<td>frillish<br> nº592<br>
+Agua </td>
+<td>55</td>
+<td>40</td>
+<td>50</td>
+<td>65</td>
+<td>85</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/jellicent.png'></td>
+<td>jellicent<br> nº593<br>
+Agua </td>
+<td>100</td>
+<td>60</td>
+<td>70</td>
+<td>85</td>
+<td>105</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/alomomola.png'></td>
+<td>alomomola<br> nº594<br>
+Agua </td>
+<td>165</td>
+<td>75</td>
+<td>80</td>
+<td>40</td>
+<td>45</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/joltik.png'></td>
+<td>joltik<br> nº595<br>
+Bicho Electrico </td>
+<td>50</td>
+<td>47</td>
+<td>50</td>
+<td>57</td>
+<td>50</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/galvantula.png'></td>
+<td>galvantula<br> nº596<br>
+Bicho Electrico </td>
+<td>70</td>
+<td>77</td>
+<td>60</td>
+<td>97</td>
+<td>60</td>
+<td>108
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ferroseed.png'></td>
+<td>ferroseed<br> nº597<br>
+Hierba Metal </td>
+<td>44</td>
+<td>50</td>
+<td>91</td>
+<td>24</td>
+<td>86</td>
+<td>10
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ferrothorn.png'></td>
+<td>ferrothorn<br> nº598<br>
+Hierba Metal </td>
+<td>74</td>
+<td>94</td>
+<td>131</td>
+<td>54</td>
+<td>116</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/klink.png'></td>
+<td>klink<br> nº599<br>
+Metal </td>
+<td>40</td>
+<td>55</td>
+<td>70</td>
+<td>45</td>
+<td>60</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/klang.png'></td>
+<td>klang<br> nº600<br>
+Metal </td>
+<td>60</td>
+<td>80</td>
+<td>95</td>
+<td>70</td>
+<td>85</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/klinklang.png'></td>
+<td>klinklang<br> nº601<br>
+Metal </td>
+<td>60</td>
+<td>100</td>
+<td>115</td>
+<td>70</td>
+<td>85</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tynamo.png'></td>
+<td>tynamo<br> nº602<br>
+Electrico </td>
+<td>35</td>
+<td>55</td>
+<td>40</td>
+<td>45</td>
+<td>40</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/eelektrik.png'></td>
+<td>eelektrik<br> nº603<br>
+Electrico </td>
+<td>65</td>
+<td>85</td>
+<td>70</td>
+<td>75</td>
+<td>70</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/eelektross.png'></td>
+<td>eelektross<br> nº604<br>
+Electrico </td>
+<td>85</td>
+<td>115</td>
+<td>80</td>
+<td>105</td>
+<td>80</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/elgyem.png'></td>
+<td>elgyem<br> nº605<br>
+Psíquico </td>
+<td>55</td>
+<td>55</td>
+<td>55</td>
+<td>85</td>
+<td>55</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/beheeyem.png'></td>
+<td>beheeyem<br> nº606<br>
+Psíquico </td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
+<td>125</td>
+<td>95</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/litwick.png'></td>
+<td>litwick<br> nº607<br>
+Fuego </td>
+<td>50</td>
+<td>30</td>
+<td>55</td>
+<td>65</td>
+<td>55</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lampent.png'></td>
+<td>lampent<br> nº608<br>
+Fuego </td>
+<td>60</td>
+<td>40</td>
+<td>60</td>
+<td>95</td>
+<td>60</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chandelure.png'></td>
+<td>chandelure<br> nº609<br>
+Fuego </td>
+<td>60</td>
+<td>55</td>
+<td>90</td>
+<td>145</td>
+<td>90</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/axew.png'></td>
+<td>axew<br> nº610<br>
+</td>
+<td>46</td>
+<td>87</td>
+<td>60</td>
+<td>30</td>
+<td>40</td>
+<td>57
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/fraxure.png'></td>
+<td>fraxure<br> nº611<br>
+</td>
+<td>66</td>
+<td>117</td>
+<td>70</td>
+<td>40</td>
+<td>50</td>
+<td>67
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/haxorus.png'></td>
+<td>haxorus<br> nº612<br>
+</td>
+<td>76</td>
+<td>147</td>
+<td>90</td>
+<td>60</td>
+<td>70</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cubchoo.png'></td>
+<td>cubchoo<br> nº613<br>
+Hielo </td>
+<td>55</td>
+<td>70</td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/beartic.png'></td>
+<td>beartic<br> nº614<br>
+Hielo </td>
+<td>95</td>
+<td>130</td>
+<td>80</td>
+<td>70</td>
+<td>80</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cryogonal.png'></td>
+<td>cryogonal<br> nº615<br>
+Hielo </td>
+<td>80</td>
+<td>50</td>
+<td>50</td>
+<td>95</td>
+<td>135</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shelmet.png'></td>
+<td>shelmet<br> nº616<br>
+Bicho </td>
+<td>50</td>
+<td>40</td>
+<td>85</td>
+<td>40</td>
+<td>65</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/accelgor.png'></td>
+<td>accelgor<br> nº617<br>
+Bicho </td>
+<td>80</td>
+<td>70</td>
+<td>40</td>
+<td>100</td>
+<td>60</td>
+<td>145
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stunfisk.png'></td>
+<td>stunfisk<br> nº618<br>
+Tierra Electrico </td>
+<td>109</td>
+<td>66</td>
+<td>84</td>
+<td>81</td>
+<td>99</td>
+<td>32
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mienfoo.png'></td>
+<td>mienfoo<br> nº619<br>
+Lucha </td>
+<td>45</td>
+<td>85</td>
+<td>50</td>
+<td>55</td>
+<td>50</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mienshao.png'></td>
+<td>mienshao<br> nº620<br>
+Lucha </td>
+<td>65</td>
+<td>125</td>
+<td>60</td>
+<td>95</td>
+<td>60</td>
+<td>105
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/druddigon.png'></td>
+<td>druddigon<br> nº621<br>
+</td>
+<td>77</td>
+<td>120</td>
+<td>90</td>
+<td>60</td>
+<td>90</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/golett.png'></td>
+<td>golett<br> nº622<br>
+Tierra </td>
+<td>59</td>
+<td>74</td>
+<td>50</td>
+<td>35</td>
+<td>50</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/golurk.png'></td>
+<td>golurk<br> nº623<br>
+Tierra </td>
+<td>89</td>
+<td>124</td>
+<td>80</td>
+<td>55</td>
+<td>80</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pawniard.png'></td>
+<td>pawniard<br> nº624<br>
+Oscuro Metal </td>
+<td>45</td>
+<td>85</td>
+<td>70</td>
+<td>40</td>
+<td>40</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bisharp.png'></td>
+<td>bisharp<br> nº625<br>
+Oscuro Metal </td>
+<td>65</td>
+<td>125</td>
+<td>100</td>
+<td>60</td>
+<td>70</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bouffalant.png'></td>
+<td>bouffalant<br> nº626<br>
+Normal </td>
+<td>95</td>
+<td>110</td>
+<td>95</td>
+<td>40</td>
+<td>95</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rufflet.png'></td>
+<td>rufflet<br> nº627<br>
+Normal Volador </td>
+<td>70</td>
+<td>83</td>
+<td>50</td>
+<td>37</td>
+<td>50</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/braviary.png'></td>
+<td>braviary<br> nº628<br>
+Normal Volador </td>
+<td>100</td>
+<td>123</td>
+<td>75</td>
+<td>57</td>
+<td>75</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vullaby.png'></td>
+<td>vullaby<br> nº629<br>
+Oscuro Volador </td>
+<td>70</td>
+<td>55</td>
+<td>75</td>
+<td>45</td>
+<td>65</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mandibuzz.png'></td>
+<td>mandibuzz<br> nº630<br>
+Oscuro Volador </td>
+<td>110</td>
+<td>65</td>
+<td>105</td>
+<td>55</td>
+<td>95</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/heatmor.png'></td>
+<td>heatmor<br> nº631<br>
+Fuego </td>
+<td>85</td>
+<td>97</td>
+<td>66</td>
+<td>105</td>
+<td>66</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/durant.png'></td>
+<td>durant<br> nº632<br>
+Bicho Metal </td>
+<td>58</td>
+<td>109</td>
+<td>112</td>
+<td>48</td>
+<td>48</td>
+<td>109
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/deino.png'></td>
+<td>deino<br> nº633<br>
+Oscuro </td>
+<td>52</td>
+<td>65</td>
+<td>50</td>
+<td>45</td>
+<td>50</td>
+<td>38
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zweilous.png'></td>
+<td>zweilous<br> nº634<br>
+Oscuro </td>
+<td>72</td>
+<td>85</td>
+<td>70</td>
+<td>65</td>
+<td>70</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hydreigon.png'></td>
+<td>hydreigon<br> nº635<br>
+Oscuro </td>
+<td>92</td>
+<td>105</td>
+<td>90</td>
+<td>125</td>
+<td>90</td>
+<td>98
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/larvesta.png'></td>
+<td>larvesta<br> nº636<br>
+Bicho Fuego </td>
+<td>55</td>
+<td>85</td>
+<td>55</td>
+<td>50</td>
+<td>55</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/volcarona.png'></td>
+<td>volcarona<br> nº637<br>
+Bicho Fuego </td>
+<td>85</td>
+<td>60</td>
+<td>65</td>
+<td>135</td>
+<td>105</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cobalion.png'></td>
+<td>cobalion<br> nº638<br>
+Metal Lucha </td>
+<td>91</td>
+<td>90</td>
+<td>129</td>
+<td>90</td>
+<td>72</td>
+<td>108
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/terrakion.png'></td>
+<td>terrakion<br> nº639<br>
+Roca Lucha </td>
+<td>91</td>
+<td>129</td>
+<td>90</td>
+<td>72</td>
+<td>90</td>
+<td>108
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/virizion.png'></td>
+<td>virizion<br> nº640<br>
+Hierba Lucha </td>
+<td>91</td>
+<td>90</td>
+<td>72</td>
+<td>90</td>
+<td>129</td>
+<td>108
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/reshiram.png'></td>
+<td>reshiram<br> nº643<br>
+Fuego </td>
+<td>100</td>
+<td>120</td>
+<td>100</td>
+<td>150</td>
+<td>120</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zekrom.png'></td>
+<td>zekrom<br> nº644<br>
+Electrico </td>
+<td>100</td>
+<td>150</td>
+<td>120</td>
+<td>120</td>
+<td>100</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kyurem.png'></td>
+<td>kyurem<br> nº646<br>
+Hielo </td>
+<td>125</td>
+<td>130</td>
+<td>90</td>
+<td>130</td>
+<td>90</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/genesect.png'></td>
+<td>genesect<br> nº649<br>
+Bicho Metal </td>
+<td>71</td>
+<td>120</td>
+<td>95</td>
+<td>120</td>
+<td>95</td>
+<td>99
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chespin.png'></td>
+<td>chespin<br> nº650<br>
+Hierba </td>
+<td>56</td>
+<td>61</td>
+<td>65</td>
+<td>48</td>
+<td>45</td>
+<td>38
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/quilladin.png'></td>
+<td>quilladin<br> nº651<br>
+Hierba </td>
+<td>61</td>
+<td>78</td>
+<td>95</td>
+<td>56</td>
+<td>58</td>
+<td>57
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chesnaught.png'></td>
+<td>chesnaught<br> nº652<br>
+Hierba Lucha </td>
+<td>88</td>
+<td>107</td>
+<td>122</td>
+<td>74</td>
+<td>75</td>
+<td>64
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/fennekin.png'></td>
+<td>fennekin<br> nº653<br>
+Fuego </td>
+<td>40</td>
+<td>45</td>
+<td>40</td>
+<td>62</td>
+<td>60</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/braixen.png'></td>
+<td>braixen<br> nº654<br>
+Fuego </td>
+<td>59</td>
+<td>59</td>
+<td>58</td>
+<td>90</td>
+<td>70</td>
+<td>73
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/delphox.png'></td>
+<td>delphox<br> nº655<br>
+Fuego Psíquico </td>
+<td>75</td>
+<td>69</td>
+<td>72</td>
+<td>114</td>
+<td>100</td>
+<td>104
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/froakie.png'></td>
+<td>froakie<br> nº656<br>
+Agua </td>
+<td>41</td>
+<td>56</td>
+<td>40</td>
+<td>62</td>
+<td>44</td>
+<td>71
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/frogadier.png'></td>
+<td>frogadier<br> nº657<br>
+Agua </td>
+<td>54</td>
+<td>63</td>
+<td>52</td>
+<td>83</td>
+<td>56</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/greninja.png'></td>
+<td>greninja<br> nº658<br>
+Agua Oscuro </td>
+<td>72</td>
+<td>95</td>
+<td>67</td>
+<td>103</td>
+<td>71</td>
+<td>122
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bunnelby.png'></td>
+<td>bunnelby<br> nº659<br>
+Normal </td>
+<td>38</td>
+<td>36</td>
+<td>38</td>
+<td>32</td>
+<td>36</td>
+<td>57
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/diggersby.png'></td>
+<td>diggersby<br> nº660<br>
+Normal Tierra </td>
+<td>85</td>
+<td>56</td>
+<td>77</td>
+<td>50</td>
+<td>77</td>
+<td>78
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/fletchling.png'></td>
+<td>fletchling<br> nº661<br>
+Normal Volador </td>
+<td>45</td>
+<td>50</td>
+<td>43</td>
+<td>40</td>
+<td>38</td>
+<td>62
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/fletchinder.png'></td>
+<td>fletchinder<br> nº662<br>
+Fuego Volador </td>
+<td>62</td>
+<td>73</td>
+<td>55</td>
+<td>56</td>
+<td>52</td>
+<td>84
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/talonflame.png'></td>
+<td>talonflame<br> nº663<br>
+Fuego Volador </td>
+<td>78</td>
+<td>81</td>
+<td>71</td>
+<td>74</td>
+<td>69</td>
+<td>126
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scatterbug.png'></td>
+<td>scatterbug<br> nº664<br>
+Bicho </td>
+<td>38</td>
+<td>35</td>
+<td>40</td>
+<td>27</td>
+<td>25</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spewpa.png'></td>
+<td>spewpa<br> nº665<br>
+Bicho </td>
+<td>45</td>
+<td>22</td>
+<td>60</td>
+<td>27</td>
+<td>30</td>
+<td>29
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vivillon.png'></td>
+<td>vivillon<br> nº666<br>
+Bicho Volador </td>
+<td>80</td>
+<td>52</td>
+<td>50</td>
+<td>90</td>
+<td>50</td>
+<td>89
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/litleo.png'></td>
+<td>litleo<br> nº667<br>
+Fuego Normal </td>
+<td>62</td>
+<td>50</td>
+<td>58</td>
+<td>73</td>
+<td>54</td>
+<td>72
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pyroar.png'></td>
+<td>pyroar<br> nº668<br>
+Fuego Normal </td>
+<td>86</td>
+<td>68</td>
+<td>72</td>
+<td>109</td>
+<td>66</td>
+<td>106
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/flabebe.png'></td>
+<td>flabebe<br> nº669<br>
+Hada </td>
+<td>44</td>
+<td>38</td>
+<td>39</td>
+<td>61</td>
+<td>79</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/floette.png'></td>
+<td>floette<br> nº670<br>
+Hada </td>
+<td>54</td>
+<td>45</td>
+<td>47</td>
+<td>75</td>
+<td>98</td>
+<td>52
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/florges.png'></td>
+<td>florges<br> nº671<br>
+Hada </td>
+<td>78</td>
+<td>65</td>
+<td>68</td>
+<td>112</td>
+<td>154</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skiddo.png'></td>
+<td>skiddo<br> nº672<br>
+Hierba </td>
+<td>66</td>
+<td>65</td>
+<td>48</td>
+<td>62</td>
+<td>57</td>
+<td>52
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gogoat.png'></td>
+<td>gogoat<br> nº673<br>
+Hierba </td>
+<td>123</td>
+<td>100</td>
+<td>62</td>
+<td>97</td>
+<td>81</td>
+<td>68
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pancham.png'></td>
+<td>pancham<br> nº674<br>
+Lucha </td>
+<td>67</td>
+<td>82</td>
+<td>62</td>
+<td>46</td>
+<td>48</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pangoro.png'></td>
+<td>pangoro<br> nº675<br>
+Lucha Oscuro </td>
+<td>95</td>
+<td>124</td>
+<td>78</td>
+<td>69</td>
+<td>71</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/furfrou.png'></td>
+<td>furfrou<br> nº676<br>
+Normal </td>
+<td>75</td>
+<td>80</td>
+<td>60</td>
+<td>65</td>
+<td>90</td>
+<td>102
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/espurr.png'></td>
+<td>espurr<br> nº677<br>
+Psíquico </td>
+<td>62</td>
+<td>48</td>
+<td>54</td>
+<td>63</td>
+<td>60</td>
+<td>68
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/honedge.png'></td>
+<td>honedge<br> nº679<br>
+Metal </td>
+<td>45</td>
+<td>80</td>
+<td>100</td>
+<td>35</td>
+<td>37</td>
+<td>28
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/doublade.png'></td>
+<td>doublade<br> nº680<br>
+Metal </td>
+<td>59</td>
+<td>110</td>
+<td>150</td>
+<td>45</td>
+<td>49</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/spritzee.png'></td>
+<td>spritzee<br> nº682<br>
+Hada </td>
+<td>78</td>
+<td>52</td>
+<td>60</td>
+<td>63</td>
+<td>65</td>
+<td>23
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/aromatisse.png'></td>
+<td>aromatisse<br> nº683<br>
+Hada </td>
+<td>101</td>
+<td>72</td>
+<td>72</td>
+<td>99</td>
+<td>89</td>
+<td>29
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/swirlix.png'></td>
+<td>swirlix<br> nº684<br>
+Hada </td>
+<td>62</td>
+<td>48</td>
+<td>66</td>
+<td>59</td>
+<td>57</td>
+<td>49
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/slurpuff.png'></td>
+<td>slurpuff<br> nº685<br>
+Hada </td>
+<td>82</td>
+<td>80</td>
+<td>86</td>
+<td>85</td>
+<td>75</td>
+<td>72
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/inkay.png'></td>
+<td>inkay<br> nº686<br>
+Oscuro Psíquico </td>
+<td>53</td>
+<td>54</td>
+<td>53</td>
+<td>37</td>
+<td>46</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/malamar.png'></td>
+<td>malamar<br> nº687<br>
+Oscuro Psíquico </td>
+<td>86</td>
+<td>92</td>
+<td>88</td>
+<td>68</td>
+<td>75</td>
+<td>73
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/binacle.png'></td>
+<td>binacle<br> nº688<br>
+Roca Agua </td>
+<td>42</td>
+<td>52</td>
+<td>67</td>
+<td>39</td>
+<td>56</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/barbaracle.png'></td>
+<td>barbaracle<br> nº689<br>
+Roca Agua </td>
+<td>72</td>
+<td>105</td>
+<td>115</td>
+<td>54</td>
+<td>86</td>
+<td>68
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skrelp.png'></td>
+<td>skrelp<br> nº690<br>
+Veneno Agua </td>
+<td>50</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dragalge.png'></td>
+<td>dragalge<br> nº691<br>
+Veneno </td>
+<td>65</td>
+<td>75</td>
+<td>90</td>
+<td>97</td>
+<td>123</td>
+<td>44
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/clauncher.png'></td>
+<td>clauncher<br> nº692<br>
+Agua </td>
+<td>50</td>
+<td>53</td>
+<td>62</td>
+<td>58</td>
+<td>63</td>
+<td>44
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/clawitzer.png'></td>
+<td>clawitzer<br> nº693<br>
+Agua </td>
+<td>71</td>
+<td>73</td>
+<td>88</td>
+<td>120</td>
+<td>89</td>
+<td>59
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/helioptile.png'></td>
+<td>helioptile<br> nº694<br>
+Electrico Normal </td>
+<td>44</td>
+<td>38</td>
+<td>33</td>
+<td>61</td>
+<td>43</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/heliolisk.png'></td>
+<td>heliolisk<br> nº695<br>
+Electrico Normal </td>
+<td>62</td>
+<td>55</td>
+<td>52</td>
+<td>109</td>
+<td>94</td>
+<td>109
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tyrunt.png'></td>
+<td>tyrunt<br> nº696<br>
+Roca </td>
+<td>58</td>
+<td>89</td>
+<td>77</td>
+<td>45</td>
+<td>45</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tyrantrum.png'></td>
+<td>tyrantrum<br> nº697<br>
+Roca </td>
+<td>82</td>
+<td>121</td>
+<td>119</td>
+<td>69</td>
+<td>59</td>
+<td>71
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/amaura.png'></td>
+<td>amaura<br> nº698<br>
+Roca Hielo </td>
+<td>77</td>
+<td>59</td>
+<td>50</td>
+<td>67</td>
+<td>63</td>
+<td>46
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/aurorus.png'></td>
+<td>aurorus<br> nº699<br>
+Roca Hielo </td>
+<td>123</td>
+<td>77</td>
+<td>72</td>
+<td>99</td>
+<td>92</td>
+<td>58
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sylveon.png'></td>
+<td>sylveon<br> nº700<br>
+Hada </td>
+<td>95</td>
+<td>65</td>
+<td>65</td>
+<td>110</td>
+<td>130</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hawlucha.png'></td>
+<td>hawlucha<br> nº701<br>
+Lucha Volador </td>
+<td>78</td>
+<td>92</td>
+<td>75</td>
+<td>74</td>
+<td>63</td>
+<td>118
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dedenne.png'></td>
+<td>dedenne<br> nº702<br>
+Electrico Hada </td>
+<td>67</td>
+<td>58</td>
+<td>57</td>
+<td>81</td>
+<td>67</td>
+<td>101
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/carbink.png'></td>
+<td>carbink<br> nº703<br>
+Roca Hada </td>
+<td>50</td>
+<td>50</td>
+<td>150</td>
+<td>50</td>
+<td>150</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/goomy.png'></td>
+<td>goomy<br> nº704<br>
+</td>
+<td>45</td>
+<td>50</td>
+<td>35</td>
+<td>55</td>
+<td>75</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sliggoo.png'></td>
+<td>sliggoo<br> nº705<br>
+</td>
+<td>68</td>
+<td>75</td>
+<td>53</td>
+<td>83</td>
+<td>113</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/goodra.png'></td>
+<td>goodra<br> nº706<br>
+</td>
+<td>90</td>
+<td>100</td>
+<td>70</td>
+<td>110</td>
+<td>150</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/klefki.png'></td>
+<td>klefki<br> nº707<br>
+Metal Hada </td>
+<td>57</td>
+<td>80</td>
+<td>91</td>
+<td>80</td>
+<td>87</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/phantump.png'></td>
+<td>phantump<br> nº708<br>
+Hierba </td>
+<td>43</td>
+<td>70</td>
+<td>48</td>
+<td>50</td>
+<td>60</td>
+<td>38
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/trevenant.png'></td>
+<td>trevenant<br> nº709<br>
+Hierba </td>
+<td>85</td>
+<td>110</td>
+<td>76</td>
+<td>65</td>
+<td>82</td>
+<td>56
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bergmite.png'></td>
+<td>bergmite<br> nº712<br>
+Hielo </td>
+<td>55</td>
+<td>69</td>
+<td>85</td>
+<td>32</td>
+<td>35</td>
+<td>28
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/avalugg.png'></td>
+<td>avalugg<br> nº713<br>
+Hielo </td>
+<td>95</td>
+<td>117</td>
+<td>184</td>
+<td>44</td>
+<td>46</td>
+<td>28
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/noibat.png'></td>
+<td>noibat<br> nº714<br>
+Volador </td>
+<td>40</td>
+<td>30</td>
+<td>35</td>
+<td>45</td>
+<td>40</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/noivern.png'></td>
+<td>noivern<br> nº715<br>
+Volador </td>
+<td>85</td>
+<td>70</td>
+<td>80</td>
+<td>97</td>
+<td>80</td>
+<td>123
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/xerneas.png'></td>
+<td>xerneas<br> nº716<br>
+Hada </td>
+<td>126</td>
+<td>131</td>
+<td>95</td>
+<td>131</td>
+<td>98</td>
+<td>99
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/yveltal.png'></td>
+<td>yveltal<br> nº717<br>
+Oscuro Volador </td>
+<td>126</td>
+<td>131</td>
+<td>95</td>
+<td>131</td>
+<td>98</td>
+<td>99
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/diancie.png'></td>
+<td>diancie<br> nº719<br>
+Roca Hada </td>
+<td>50</td>
+<td>100</td>
+<td>150</td>
+<td>100</td>
+<td>150</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hoopa.png'></td>
+<td>hoopa<br> nº720<br>
+Psíquico </td>
+<td>80</td>
+<td>110</td>
+<td>60</td>
+<td>150</td>
+<td>130</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/volcanion.png'></td>
+<td>volcanion<br> nº721<br>
+Fuego Agua </td>
+<td>80</td>
+<td>110</td>
+<td>120</td>
+<td>130</td>
+<td>90</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rowlet.png'></td>
+<td>rowlet<br> nº722<br>
+Hierba Volador </td>
+<td>68</td>
+<td>55</td>
+<td>55</td>
+<td>50</td>
+<td>50</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dartrix.png'></td>
+<td>dartrix<br> nº723<br>
+Hierba Volador </td>
+<td>78</td>
+<td>75</td>
+<td>75</td>
+<td>70</td>
+<td>70</td>
+<td>52
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/decidueye.png'></td>
+<td>decidueye<br> nº724<br>
+Hierba </td>
+<td>78</td>
+<td>107</td>
+<td>75</td>
+<td>100</td>
+<td>100</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/litten.png'></td>
+<td>litten<br> nº725<br>
+Fuego </td>
+<td>45</td>
+<td>65</td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/torracat.png'></td>
+<td>torracat<br> nº726<br>
+Fuego </td>
+<td>65</td>
+<td>85</td>
+<td>50</td>
+<td>80</td>
+<td>50</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/incineroar.png'></td>
+<td>incineroar<br> nº727<br>
+Fuego Oscuro </td>
+<td>95</td>
+<td>115</td>
+<td>90</td>
+<td>80</td>
+<td>90</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/popplio.png'></td>
+<td>popplio<br> nº728<br>
+Agua </td>
+<td>50</td>
+<td>54</td>
+<td>54</td>
+<td>66</td>
+<td>56</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/brionne.png'></td>
+<td>brionne<br> nº729<br>
+Agua </td>
+<td>60</td>
+<td>69</td>
+<td>69</td>
+<td>91</td>
+<td>81</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/primarina.png'></td>
+<td>primarina<br> nº730<br>
+Agua Hada </td>
+<td>80</td>
+<td>74</td>
+<td>74</td>
+<td>126</td>
+<td>116</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pikipek.png'></td>
+<td>pikipek<br> nº731<br>
+Normal Volador </td>
+<td>35</td>
+<td>75</td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/trumbeak.png'></td>
+<td>trumbeak<br> nº732<br>
+Normal Volador </td>
+<td>55</td>
+<td>85</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/toucannon.png'></td>
+<td>toucannon<br> nº733<br>
+Normal Volador </td>
+<td>80</td>
+<td>120</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/yungoos.png'></td>
+<td>yungoos<br> nº734<br>
+Normal </td>
+<td>48</td>
+<td>70</td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gumshoos.png'></td>
+<td>gumshoos<br> nº735<br>
+Normal </td>
+<td>88</td>
+<td>110</td>
+<td>60</td>
+<td>55</td>
+<td>60</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grubbin.png'></td>
+<td>grubbin<br> nº736<br>
+Bicho </td>
+<td>47</td>
+<td>62</td>
+<td>45</td>
+<td>55</td>
+<td>45</td>
+<td>46
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/charjabug.png'></td>
+<td>charjabug<br> nº737<br>
+Bicho Electrico </td>
+<td>57</td>
+<td>82</td>
+<td>95</td>
+<td>55</td>
+<td>75</td>
+<td>36
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/vikavolt.png'></td>
+<td>vikavolt<br> nº738<br>
+Bicho Electrico </td>
+<td>77</td>
+<td>70</td>
+<td>90</td>
+<td>145</td>
+<td>75</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/crabrawler.png'></td>
+<td>crabrawler<br> nº739<br>
+Lucha </td>
+<td>47</td>
+<td>82</td>
+<td>57</td>
+<td>42</td>
+<td>47</td>
+<td>63
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/crabominable.png'></td>
+<td>crabominable<br> nº740<br>
+Lucha Hielo </td>
+<td>97</td>
+<td>132</td>
+<td>77</td>
+<td>62</td>
+<td>67</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cutiefly.png'></td>
+<td>cutiefly<br> nº742<br>
+Bicho Hada </td>
+<td>40</td>
+<td>45</td>
+<td>40</td>
+<td>55</td>
+<td>40</td>
+<td>84
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/ribombee.png'></td>
+<td>ribombee<br> nº743<br>
+Bicho Hada </td>
+<td>60</td>
+<td>55</td>
+<td>60</td>
+<td>95</td>
+<td>70</td>
+<td>124
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rockruff.png'></td>
+<td>rockruff<br> nº744<br>
+Roca </td>
+<td>45</td>
+<td>65</td>
+<td>40</td>
+<td>30</td>
+<td>40</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mareanie.png'></td>
+<td>mareanie<br> nº747<br>
+Veneno Agua </td>
+<td>50</td>
+<td>53</td>
+<td>62</td>
+<td>43</td>
+<td>52</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/toxapex.png'></td>
+<td>toxapex<br> nº748<br>
+Veneno Agua </td>
+<td>50</td>
+<td>63</td>
+<td>152</td>
+<td>53</td>
+<td>142</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mudbray.png'></td>
+<td>mudbray<br> nº749<br>
+Tierra </td>
+<td>70</td>
+<td>100</td>
+<td>70</td>
+<td>45</td>
+<td>55</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/mudsdale.png'></td>
+<td>mudsdale<br> nº750<br>
+Tierra </td>
+<td>100</td>
+<td>125</td>
+<td>100</td>
+<td>55</td>
+<td>85</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dewpider.png'></td>
+<td>dewpider<br> nº751<br>
+Agua Bicho </td>
+<td>38</td>
+<td>40</td>
+<td>52</td>
+<td>40</td>
+<td>72</td>
+<td>27
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/araquanid.png'></td>
+<td>araquanid<br> nº752<br>
+Agua Bicho </td>
+<td>68</td>
+<td>70</td>
+<td>92</td>
+<td>50</td>
+<td>132</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/fomantis.png'></td>
+<td>fomantis<br> nº753<br>
+Hierba </td>
+<td>40</td>
+<td>55</td>
+<td>35</td>
+<td>50</td>
+<td>35</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lurantis.png'></td>
+<td>lurantis<br> nº754<br>
+Hierba </td>
+<td>70</td>
+<td>105</td>
+<td>90</td>
+<td>80</td>
+<td>90</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/morelull.png'></td>
+<td>morelull<br> nº755<br>
+Hierba Hada </td>
+<td>40</td>
+<td>35</td>
+<td>55</td>
+<td>65</td>
+<td>75</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/shiinotic.png'></td>
+<td>shiinotic<br> nº756<br>
+Hierba Hada </td>
+<td>60</td>
+<td>45</td>
+<td>80</td>
+<td>90</td>
+<td>100</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/salandit.png'></td>
+<td>salandit<br> nº757<br>
+Veneno Fuego </td>
+<td>48</td>
+<td>44</td>
+<td>40</td>
+<td>71</td>
+<td>40</td>
+<td>77
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/salazzle.png'></td>
+<td>salazzle<br> nº758<br>
+Veneno Fuego </td>
+<td>68</td>
+<td>64</td>
+<td>60</td>
+<td>111</td>
+<td>60</td>
+<td>117
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stufful.png'></td>
+<td>stufful<br> nº759<br>
+Normal Lucha </td>
+<td>70</td>
+<td>75</td>
+<td>50</td>
+<td>45</td>
+<td>50</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bewear.png'></td>
+<td>bewear<br> nº760<br>
+Normal Lucha </td>
+<td>120</td>
+<td>125</td>
+<td>80</td>
+<td>55</td>
+<td>60</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bounsweet.png'></td>
+<td>bounsweet<br> nº761<br>
+Hierba </td>
+<td>42</td>
+<td>30</td>
+<td>38</td>
+<td>30</td>
+<td>38</td>
+<td>32
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/steenee.png'></td>
+<td>steenee<br> nº762<br>
+Hierba </td>
+<td>52</td>
+<td>40</td>
+<td>48</td>
+<td>40</td>
+<td>48</td>
+<td>62
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/tsareena.png'></td>
+<td>tsareena<br> nº763<br>
+Hierba </td>
+<td>72</td>
+<td>120</td>
+<td>98</td>
+<td>50</td>
+<td>98</td>
+<td>72
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/comfey.png'></td>
+<td>comfey<br> nº764<br>
+Hada </td>
+<td>51</td>
+<td>52</td>
+<td>90</td>
+<td>82</td>
+<td>110</td>
+<td>100
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/oranguru.png'></td>
+<td>oranguru<br> nº765<br>
+Normal Psíquico </td>
+<td>90</td>
+<td>60</td>
+<td>80</td>
+<td>90</td>
+<td>110</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/passimian.png'></td>
+<td>passimian<br> nº766<br>
+Lucha </td>
+<td>100</td>
+<td>120</td>
+<td>90</td>
+<td>40</td>
+<td>60</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wimpod.png'></td>
+<td>wimpod<br> nº767<br>
+Bicho Agua </td>
+<td>25</td>
+<td>35</td>
+<td>40</td>
+<td>20</td>
+<td>30</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/golisopod.png'></td>
+<td>golisopod<br> nº768<br>
+Bicho Agua </td>
+<td>75</td>
+<td>125</td>
+<td>140</td>
+<td>60</td>
+<td>90</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sandygast.png'></td>
+<td>sandygast<br> nº769<br>
+Tierra </td>
+<td>55</td>
+<td>55</td>
+<td>80</td>
+<td>70</td>
+<td>45</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/palossand.png'></td>
+<td>palossand<br> nº770<br>
+Tierra </td>
+<td>85</td>
+<td>75</td>
+<td>110</td>
+<td>100</td>
+<td>75</td>
+<td>35
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pyukumuku.png'></td>
+<td>pyukumuku<br> nº771<br>
+Agua </td>
+<td>55</td>
+<td>60</td>
+<td>130</td>
+<td>30</td>
+<td>130</td>
+<td>5
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/silvally.png'></td>
+<td>silvally<br> nº773<br>
+Normal </td>
+<td>95</td>
+<td>95</td>
+<td>95</td>
+<td>95</td>
+<td>95</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/komala.png'></td>
+<td>komala<br> nº775<br>
+Normal </td>
+<td>65</td>
+<td>115</td>
+<td>65</td>
+<td>75</td>
+<td>95</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/turtonator.png'></td>
+<td>turtonator<br> nº776<br>
+Fuego </td>
+<td>60</td>
+<td>78</td>
+<td>135</td>
+<td>91</td>
+<td>85</td>
+<td>36
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/togedemaru.png'></td>
+<td>togedemaru<br> nº777<br>
+Electrico Metal </td>
+<td>65</td>
+<td>98</td>
+<td>63</td>
+<td>40</td>
+<td>73</td>
+<td>96
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/bruxish.png'></td>
+<td>bruxish<br> nº779<br>
+Agua Psíquico </td>
+<td>68</td>
+<td>105</td>
+<td>70</td>
+<td>70</td>
+<td>70</td>
+<td>92
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drampa.png'></td>
+<td>drampa<br> nº780<br>
+Normal </td>
+<td>78</td>
+<td>60</td>
+<td>85</td>
+<td>135</td>
+<td>91</td>
+<td>36
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dhelmise.png'></td>
+<td>dhelmise<br> nº781<br>
+Hierba </td>
+<td>70</td>
+<td>131</td>
+<td>100</td>
+<td>86</td>
+<td>90</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cosmog.png'></td>
+<td>cosmog<br> nº789<br>
+Psíquico </td>
+<td>43</td>
+<td>29</td>
+<td>31</td>
+<td>29</td>
+<td>31</td>
+<td>37
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cosmoem.png'></td>
+<td>cosmoem<br> nº790<br>
+Psíquico </td>
+<td>43</td>
+<td>29</td>
+<td>131</td>
+<td>29</td>
+<td>131</td>
+<td>37
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/solgaleo.png'></td>
+<td>solgaleo<br> nº791<br>
+Psíquico Metal </td>
+<td>137</td>
+<td>137</td>
+<td>107</td>
+<td>113</td>
+<td>89</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/lunala.png'></td>
+<td>lunala<br> nº792<br>
+Psíquico </td>
+<td>137</td>
+<td>113</td>
+<td>89</td>
+<td>137</td>
+<td>107</td>
+<td>97
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nihilego.png'></td>
+<td>nihilego<br> nº793<br>
+Roca Veneno </td>
+<td>109</td>
+<td>53</td>
+<td>47</td>
+<td>127</td>
+<td>131</td>
+<td>103
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/buzzwole.png'></td>
+<td>buzzwole<br> nº794<br>
+Bicho Lucha </td>
+<td>107</td>
+<td>139</td>
+<td>139</td>
+<td>53</td>
+<td>53</td>
+<td>79
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pheromosa.png'></td>
+<td>pheromosa<br> nº795<br>
+Bicho Lucha </td>
+<td>71</td>
+<td>137</td>
+<td>37</td>
+<td>137</td>
+<td>37</td>
+<td>151
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/xurkitree.png'></td>
+<td>xurkitree<br> nº796<br>
+Electrico </td>
+<td>83</td>
+<td>89</td>
+<td>71</td>
+<td>173</td>
+<td>71</td>
+<td>83
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/celesteela.png'></td>
+<td>celesteela<br> nº797<br>
+Metal Volador </td>
+<td>97</td>
+<td>101</td>
+<td>103</td>
+<td>107</td>
+<td>101</td>
+<td>61
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/kartana.png'></td>
+<td>kartana<br> nº798<br>
+Hierba Metal </td>
+<td>59</td>
+<td>181</td>
+<td>131</td>
+<td>59</td>
+<td>31</td>
+<td>109
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/guzzlord.png'></td>
+<td>guzzlord<br> nº799<br>
+Oscuro </td>
+<td>223</td>
+<td>101</td>
+<td>53</td>
+<td>97</td>
+<td>53</td>
+<td>43
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/necrozma.png'></td>
+<td>necrozma<br> nº800<br>
+Psíquico </td>
+<td>97</td>
+<td>107</td>
+<td>101</td>
+<td>127</td>
+<td>89</td>
+<td>79
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/magearna.png'></td>
+<td>magearna<br> nº801<br>
+Metal Hada </td>
+<td>80</td>
+<td>95</td>
+<td>115</td>
+<td>130</td>
+<td>115</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/marshadow.png'></td>
+<td>marshadow<br> nº802<br>
+Lucha </td>
+<td>90</td>
+<td>125</td>
+<td>80</td>
+<td>90</td>
+<td>90</td>
+<td>125
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/poipole.png'></td>
+<td>poipole<br> nº803<br>
+Veneno </td>
+<td>67</td>
+<td>73</td>
+<td>67</td>
+<td>73</td>
+<td>67</td>
+<td>73
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/naganadel.png'></td>
+<td>naganadel<br> nº804<br>
+Veneno </td>
+<td>73</td>
+<td>73</td>
+<td>73</td>
+<td>127</td>
+<td>73</td>
+<td>121
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stakataka.png'></td>
+<td>stakataka<br> nº805<br>
+Roca Metal </td>
+<td>61</td>
+<td>131</td>
+<td>211</td>
+<td>53</td>
+<td>101</td>
+<td>13
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/blacephalon.png'></td>
+<td>blacephalon<br> nº806<br>
+Fuego </td>
+<td>53</td>
+<td>127</td>
+<td>53</td>
+<td>151</td>
+<td>79</td>
+<td>107
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zeraora.png'></td>
+<td>zeraora<br> nº807<br>
+Electrico </td>
+<td>88</td>
+<td>112</td>
+<td>75</td>
+<td>102</td>
+<td>80</td>
+<td>143
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/meltan.png'></td>
+<td>meltan<br> nº808<br>
+Metal </td>
+<td>46</td>
+<td>65</td>
+<td>65</td>
+<td>55</td>
+<td>35</td>
+<td>34
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/melmetal.png'></td>
+<td>melmetal<br> nº809<br>
+Metal </td>
+<td>135</td>
+<td>143</td>
+<td>143</td>
+<td>80</td>
+<td>65</td>
+<td>34
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grookey.png'></td>
+<td>grookey<br> nº810<br>
+Hierba </td>
+<td>50</td>
+<td>65</td>
+<td>50</td>
+<td>40</td>
+<td>40</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/thwackey.png'></td>
+<td>thwackey<br> nº811<br>
+Hierba </td>
+<td>70</td>
+<td>85</td>
+<td>70</td>
+<td>55</td>
+<td>60</td>
+<td>80
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rillaboom.png'></td>
+<td>rillaboom<br> nº812<br>
+Hierba </td>
+<td>100</td>
+<td>125</td>
+<td>90</td>
+<td>60</td>
+<td>70</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/scorbunny.png'></td>
+<td>scorbunny<br> nº813<br>
+Fuego </td>
+<td>50</td>
+<td>71</td>
+<td>40</td>
+<td>40</td>
+<td>40</td>
+<td>69
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/raboot.png'></td>
+<td>raboot<br> nº814<br>
+Fuego </td>
+<td>65</td>
+<td>86</td>
+<td>60</td>
+<td>55</td>
+<td>60</td>
+<td>94
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cinderace.png'></td>
+<td>cinderace<br> nº815<br>
+Fuego </td>
+<td>80</td>
+<td>116</td>
+<td>75</td>
+<td>65</td>
+<td>75</td>
+<td>119
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sobble.png'></td>
+<td>sobble<br> nº816<br>
+Agua </td>
+<td>50</td>
+<td>40</td>
+<td>40</td>
+<td>70</td>
+<td>40</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drizzile.png'></td>
+<td>drizzile<br> nº817<br>
+Agua </td>
+<td>65</td>
+<td>60</td>
+<td>55</td>
+<td>95</td>
+<td>55</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/inteleon.png'></td>
+<td>inteleon<br> nº818<br>
+Agua </td>
+<td>70</td>
+<td>85</td>
+<td>65</td>
+<td>125</td>
+<td>65</td>
+<td>120
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/skwovet.png'></td>
+<td>skwovet<br> nº819<br>
+Normal </td>
+<td>70</td>
+<td>55</td>
+<td>55</td>
+<td>35</td>
+<td>35</td>
+<td>25
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/greedent.png'></td>
+<td>greedent<br> nº820<br>
+Normal </td>
+<td>120</td>
+<td>95</td>
+<td>95</td>
+<td>55</td>
+<td>75</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rookidee.png'></td>
+<td>rookidee<br> nº821<br>
+Volador </td>
+<td>38</td>
+<td>47</td>
+<td>35</td>
+<td>33</td>
+<td>35</td>
+<td>57
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/corvisquire.png'></td>
+<td>corvisquire<br> nº822<br>
+Volador </td>
+<td>68</td>
+<td>67</td>
+<td>55</td>
+<td>43</td>
+<td>55</td>
+<td>77
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/corviknight.png'></td>
+<td>corviknight<br> nº823<br>
+Volador Metal </td>
+<td>98</td>
+<td>87</td>
+<td>105</td>
+<td>53</td>
+<td>85</td>
+<td>67
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/blipbug.png'></td>
+<td>blipbug<br> nº824<br>
+Bicho </td>
+<td>25</td>
+<td>20</td>
+<td>20</td>
+<td>25</td>
+<td>45</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dottler.png'></td>
+<td>dottler<br> nº825<br>
+Bicho Psíquico </td>
+<td>50</td>
+<td>35</td>
+<td>80</td>
+<td>50</td>
+<td>90</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/orbeetle.png'></td>
+<td>orbeetle<br> nº826<br>
+Bicho Psíquico </td>
+<td>60</td>
+<td>45</td>
+<td>110</td>
+<td>80</td>
+<td>120</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/nickit.png'></td>
+<td>nickit<br> nº827<br>
+Oscuro </td>
+<td>40</td>
+<td>28</td>
+<td>28</td>
+<td>47</td>
+<td>52</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/thievul.png'></td>
+<td>thievul<br> nº828<br>
+Oscuro </td>
+<td>70</td>
+<td>58</td>
+<td>58</td>
+<td>87</td>
+<td>92</td>
+<td>90
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/gossifleur.png'></td>
+<td>gossifleur<br> nº829<br>
+Hierba </td>
+<td>40</td>
+<td>40</td>
+<td>60</td>
+<td>40</td>
+<td>60</td>
+<td>10
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/eldegoss.png'></td>
+<td>eldegoss<br> nº830<br>
+Hierba </td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
+<td>120</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/wooloo.png'></td>
+<td>wooloo<br> nº831<br>
+Normal </td>
+<td>42</td>
+<td>40</td>
+<td>55</td>
+<td>40</td>
+<td>45</td>
+<td>48
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dubwool.png'></td>
+<td>dubwool<br> nº832<br>
+Normal </td>
+<td>72</td>
+<td>80</td>
+<td>100</td>
+<td>60</td>
+<td>90</td>
+<td>88
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/chewtle.png'></td>
+<td>chewtle<br> nº833<br>
+Agua </td>
+<td>50</td>
+<td>64</td>
+<td>50</td>
+<td>38</td>
+<td>38</td>
+<td>44
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drednaw.png'></td>
+<td>drednaw<br> nº834<br>
+Agua Roca </td>
+<td>90</td>
+<td>115</td>
+<td>90</td>
+<td>48</td>
+<td>68</td>
+<td>74
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/yamper.png'></td>
+<td>yamper<br> nº835<br>
+Electrico </td>
+<td>59</td>
+<td>45</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>26
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/boltund.png'></td>
+<td>boltund<br> nº836<br>
+Electrico </td>
+<td>69</td>
+<td>90</td>
+<td>60</td>
+<td>90</td>
+<td>60</td>
+<td>121
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/rolycoly.png'></td>
+<td>rolycoly<br> nº837<br>
+Roca </td>
+<td>30</td>
+<td>40</td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/carkol.png'></td>
+<td>carkol<br> nº838<br>
+Roca Fuego </td>
+<td>80</td>
+<td>60</td>
+<td>90</td>
+<td>60</td>
+<td>70</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/coalossal.png'></td>
+<td>coalossal<br> nº839<br>
+Roca Fuego </td>
+<td>110</td>
+<td>80</td>
+<td>120</td>
+<td>80</td>
+<td>90</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/applin.png'></td>
+<td>applin<br> nº840<br>
+Hierba </td>
+<td>40</td>
+<td>40</td>
+<td>80</td>
+<td>40</td>
+<td>40</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/flapple.png'></td>
+<td>flapple<br> nº841<br>
+Hierba </td>
+<td>70</td>
+<td>110</td>
+<td>80</td>
+<td>95</td>
+<td>60</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/appletun.png'></td>
+<td>appletun<br> nº842<br>
+Hierba </td>
+<td>110</td>
+<td>85</td>
+<td>80</td>
+<td>100</td>
+<td>80</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/silicobra.png'></td>
+<td>silicobra<br> nº843<br>
+Tierra </td>
+<td>52</td>
+<td>57</td>
+<td>75</td>
+<td>35</td>
+<td>50</td>
+<td>46
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sandaconda.png'></td>
+<td>sandaconda<br> nº844<br>
+Tierra </td>
+<td>72</td>
+<td>107</td>
+<td>125</td>
+<td>65</td>
+<td>70</td>
+<td>71
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cramorant.png'></td>
+<td>cramorant<br> nº845<br>
+Volador Agua </td>
+<td>70</td>
+<td>85</td>
+<td>55</td>
+<td>85</td>
+<td>95</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/arrokuda.png'></td>
+<td>arrokuda<br> nº846<br>
+Agua </td>
+<td>41</td>
+<td>63</td>
+<td>40</td>
+<td>40</td>
+<td>30</td>
+<td>66
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/barraskewda.png'></td>
+<td>barraskewda<br> nº847<br>
+Agua </td>
+<td>61</td>
+<td>123</td>
+<td>60</td>
+<td>60</td>
+<td>50</td>
+<td>136
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/toxel.png'></td>
+<td>toxel<br> nº848<br>
+Electrico Veneno </td>
+<td>40</td>
+<td>38</td>
+<td>35</td>
+<td>54</td>
+<td>35</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sizzlipede.png'></td>
+<td>sizzlipede<br> nº850<br>
+Fuego Bicho </td>
+<td>50</td>
+<td>65</td>
+<td>45</td>
+<td>50</td>
+<td>50</td>
+<td>45
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/centiskorch.png'></td>
+<td>centiskorch<br> nº851<br>
+Fuego Bicho </td>
+<td>100</td>
+<td>115</td>
+<td>65</td>
+<td>90</td>
+<td>90</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/clobbopus.png'></td>
+<td>clobbopus<br> nº852<br>
+Lucha </td>
+<td>50</td>
+<td>68</td>
+<td>60</td>
+<td>50</td>
+<td>50</td>
+<td>32
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grapploct.png'></td>
+<td>grapploct<br> nº853<br>
+Lucha </td>
+<td>80</td>
+<td>118</td>
+<td>90</td>
+<td>70</td>
+<td>80</td>
+<td>42
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sinistea.png'></td>
+<td>sinistea<br> nº854<br>
+</td>
+<td>40</td>
+<td>45</td>
+<td>45</td>
+<td>74</td>
+<td>54</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/polteageist.png'></td>
+<td>polteageist<br> nº855<br>
+</td>
+<td>60</td>
+<td>65</td>
+<td>65</td>
+<td>134</td>
+<td>114</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hatenna.png'></td>
+<td>hatenna<br> nº856<br>
+Psíquico </td>
+<td>42</td>
+<td>30</td>
+<td>45</td>
+<td>56</td>
+<td>53</td>
+<td>39
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hattrem.png'></td>
+<td>hattrem<br> nº857<br>
+Psíquico </td>
+<td>57</td>
+<td>40</td>
+<td>65</td>
+<td>86</td>
+<td>73</td>
+<td>49
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/hatterene.png'></td>
+<td>hatterene<br> nº858<br>
+Psíquico Hada </td>
+<td>57</td>
+<td>90</td>
+<td>95</td>
+<td>136</td>
+<td>103</td>
+<td>29
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/impidimp.png'></td>
+<td>impidimp<br> nº859<br>
+Oscuro Hada </td>
+<td>45</td>
+<td>45</td>
+<td>30</td>
+<td>55</td>
+<td>40</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/morgrem.png'></td>
+<td>morgrem<br> nº860<br>
+Oscuro Hada </td>
+<td>65</td>
+<td>60</td>
+<td>45</td>
+<td>75</td>
+<td>55</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/grimmsnarl.png'></td>
+<td>grimmsnarl<br> nº861<br>
+Oscuro Hada </td>
+<td>95</td>
+<td>120</td>
+<td>65</td>
+<td>95</td>
+<td>75</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/obstagoon.png'></td>
+<td>obstagoon<br> nº862<br>
+Oscuro Normal </td>
+<td>93</td>
+<td>90</td>
+<td>101</td>
+<td>60</td>
+<td>81</td>
+<td>95
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/perrserker.png'></td>
+<td>perrserker<br> nº863<br>
+Metal </td>
+<td>70</td>
+<td>110</td>
+<td>100</td>
+<td>50</td>
+<td>60</td>
+<td>50
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cursola.png'></td>
+<td>cursola<br> nº864<br>
+</td>
+<td>60</td>
+<td>95</td>
+<td>50</td>
+<td>145</td>
+<td>130</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/sirfetchd.png'></td>
+<td>sirfetchd<br> nº865<br>
+Lucha </td>
+<td>62</td>
+<td>135</td>
+<td>95</td>
+<td>68</td>
+<td>82</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/runerigus.png'></td>
+<td>runerigus<br> nº867<br>
+Tierra </td>
+<td>58</td>
+<td>95</td>
+<td>145</td>
+<td>50</td>
+<td>105</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/milcery.png'></td>
+<td>milcery<br> nº868<br>
+Hada </td>
+<td>45</td>
+<td>40</td>
+<td>40</td>
+<td>50</td>
+<td>61</td>
+<td>34
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/alcremie.png'></td>
+<td>alcremie<br> nº869<br>
+Hada </td>
+<td>65</td>
+<td>60</td>
+<td>75</td>
+<td>110</td>
+<td>121</td>
+<td>64
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/falinks.png'></td>
+<td>falinks<br> nº870<br>
+Lucha </td>
+<td>65</td>
+<td>100</td>
+<td>100</td>
+<td>70</td>
+<td>60</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/pincurchin.png'></td>
+<td>pincurchin<br> nº871<br>
+Electrico </td>
+<td>48</td>
+<td>101</td>
+<td>95</td>
+<td>91</td>
+<td>85</td>
+<td>15
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/snom.png'></td>
+<td>snom<br> nº872<br>
+Hielo Bicho </td>
+<td>30</td>
+<td>25</td>
+<td>35</td>
+<td>45</td>
+<td>30</td>
+<td>20
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/frosmoth.png'></td>
+<td>frosmoth<br> nº873<br>
+Hielo Bicho </td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>125</td>
+<td>90</td>
+<td>65
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/stonjourner.png'></td>
+<td>stonjourner<br> nº874<br>
+Roca </td>
+<td>100</td>
+<td>125</td>
+<td>135</td>
+<td>20</td>
+<td>20</td>
+<td>70
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/cufant.png'></td>
+<td>cufant<br> nº878<br>
+Metal </td>
+<td>72</td>
+<td>80</td>
+<td>49</td>
+<td>40</td>
+<td>49</td>
+<td>40
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/copperajah.png'></td>
+<td>copperajah<br> nº879<br>
+Metal </td>
+<td>122</td>
+<td>130</td>
+<td>69</td>
+<td>80</td>
+<td>69</td>
+<td>30
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dracozolt.png'></td>
+<td>dracozolt<br> nº880<br>
+Electrico </td>
+<td>90</td>
+<td>100</td>
+<td>90</td>
+<td>80</td>
+<td>70</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/arctozolt.png'></td>
+<td>arctozolt<br> nº881<br>
+Electrico Hielo </td>
+<td>90</td>
+<td>100</td>
+<td>90</td>
+<td>90</td>
+<td>80</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dracovish.png'></td>
+<td>dracovish<br> nº882<br>
+Agua </td>
+<td>90</td>
+<td>90</td>
+<td>100</td>
+<td>70</td>
+<td>80</td>
+<td>75
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/arctovish.png'></td>
+<td>arctovish<br> nº883<br>
+Agua Hielo </td>
+<td>90</td>
+<td>90</td>
+<td>100</td>
+<td>80</td>
+<td>90</td>
+<td>55
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/duraludon.png'></td>
+<td>duraludon<br> nº884<br>
+Metal </td>
+<td>70</td>
+<td>95</td>
+<td>115</td>
+<td>120</td>
+<td>50</td>
+<td>85
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dreepy.png'></td>
+<td>dreepy<br> nº885<br>
+</td>
+<td>28</td>
+<td>60</td>
+<td>30</td>
+<td>40</td>
+<td>30</td>
+<td>82
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/drakloak.png'></td>
+<td>drakloak<br> nº886<br>
+</td>
+<td>68</td>
+<td>80</td>
+<td>50</td>
+<td>60</td>
+<td>50</td>
+<td>102
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/dragapult.png'></td>
+<td>dragapult<br> nº887<br>
+</td>
+<td>88</td>
+<td>120</td>
+<td>75</td>
+<td>100</td>
+<td>75</td>
+<td>142
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zacian.png'></td>
+<td>zacian<br> nº888<br>
+Hada </td>
+<td>92</td>
+<td>130</td>
+<td>115</td>
+<td>80</td>
+<td>115</td>
+<td>138
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/zamazenta.png'></td>
+<td>zamazenta<br> nº889<br>
+Lucha </td>
+<td>92</td>
+<td>130</td>
+<td>115</td>
+<td>80</td>
+<td>115</td>
+<td>138
+</td>
+</tr>
+<tr>
+<td><img src='lista_pokemons/eternatus.png'></td>
+<td>eternatus<br> nº890<br>
+Veneno </td>
+<td>140</td>
+<td>85</td>
+<td>95</td>
+<td>145</td>
+<td>95</td>
+<td>130
+</td>
+</tr>

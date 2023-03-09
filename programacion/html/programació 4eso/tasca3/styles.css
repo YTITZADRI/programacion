@@ -1,0 +1,23 @@
+img{
+	width: 250px;
+	height: 250px;
+}
+table{
+	margin-top: 50px;
+	border-color: transparent;
+	background-color: #60e1eb;
+	border-radius: 12px;
+}
+tr{
+	border-color: transparent;
+	background-color: #99eaf0;
+}
+td{
+	background-color: #99eaf0;
+	border-color: #60e1eb;
+	border-radius: 12px;
+}
+body{
+	background-color: #99eaf0;
+}
+

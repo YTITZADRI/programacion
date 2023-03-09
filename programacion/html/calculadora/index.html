@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Grenze:wght@200&family=Nerko+One&family=Roboto+Mono:ital,wght@1,700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" src="styles.css">
+	<title>CALCULADORA</title>
+
+
+	<style type = "text/css">
+		.x{
+			width: 40px;
+		}
+		.igual{
+			width: 30px;
+		}
+	</style>
+</head>
+<body>
+	<script src="./script.js"></script>
+
+	<h1 class = "titulo">CALCULADORA</h1>
+
+	<div>
+		<input type="text" value = "" name="" id = "resultado">
+	</div>
+
+	<div>
+		<input type="button" value = "7" name="" onclick="siete()">
+		<input type="button" value = "8" name="" onclick="ocho()">
+		<input type="button" value = "9" name="" onclick="nueve()">
+		<input type="button" value = "DEL" name="" class = "x">
+		<input type="button" value = "AC" name="" class = "x" onclick = "ac()">
+	</div>
+	<div>
+		<input type="button" value = "4" name="" onclick="cuatro()">
+		<input type="button" value = "5" name="" onclick="cinco()">
+		<input type="button" value = "6" name="" onclick="seis()">
+		<input type="button" value = "x" name="" class = "x" onclick = "multiplicacion()">
+		<input type="button" value = "/" name="" class = "x" onclick = "division()">
+	</div>
+	<div>
+		<input type="button" value = "1" name="" onclick="uno()">
+		<input type="button" value = "2" name="" onclick="dos()">
+		<input type="button" value = "3" name="" onclick="tres()">
+		<input type="button" value = "+" name="" class = "x" onclick = "suma()">
+		<input type="button" value = "-" name="" class = "x" onclick = "resta()">
+	</div>
+	<div>
+		<input type="button" value = "0" name="" onclick = "cero()">
+		<input type="button" value = "·" name="">
+		<input type="button" value = "x10" name="">
+		<input type="button" value = "Ans" name="">
+		<input type="button" value = "=" name="" class = "igual" onclick= "igual()">
+	</div>
+	<script language="Javascript">
+		num1 = "";
+		simbolo = ""
+		function uno(){
+			texto = document.getElementById("resultado").value += "1";
+		}
+		function dos(){
+			texto = document.getElementById("resultado").value += "2";
+		}
+		function tres(){
+			texto = document.getElementById("resultado").value += "3";
+		}
+		function cuatro(){
+			texto = document.getElementById("resultado").value += "4";
+		}
+		function cinco(){
+			texto = document.getElementById("resultado").value += "5";
+		}
+		function seis(){
+			texto = document.getElementById("resultado").value += "6";
+		}
+		function siete(){
+			texto = document.getElementById("resultado").value += "7";
+		}
+		function ocho(){
+			texto = document.getElementById("resultado").value += "8";
+		}
+		function nueve(){
+			texto = document.getElementById("resultado").value += "9";
+		}
+		function cero(){
+			texto = document.getElementById("resultado");
+
+			if(texto.value != ""){
+				texto.value += "0";
+			}
+		}
+		function suma(){
+			simbolo = "+";
+			texto = document.getElementById("resultado");
+
+			num1 = texto.value;
+			texto.value = "";
+		}
+		function resta(){
+			simbolo = "-";
+			texto = document.getElementById("resultado");
+
+			num1 = texto.value;
+			texto.value = "";
+		}
+		function multiplicacion(){
+			simbolo = "x";
+			texto = document.getElementById("resultado");
+
+			num1 = texto.value;
+			texto.value = "";
+		}
+		function division(){
+			simbolo = "/";
+			texto = document.getElementById("resultado");
+
+			num1 = texto.value;
+			texto.value = "";
+		}
+		function igual(){
+			texto = document.getElementById("resultado");
+
+			num2 = texto.value;
+
+			if(simbolo == "+"){
+				texto.value = parseInt(num1)+parseInt(num2);
+			}
+			if(simbolo == "-"){
+				texto.value = parseInt(num1)-parseInt(num2);
+			}
+			if(simbolo == "x"){
+				texto.value = parseInt(num1)*parseInt(num2);
+			}
+			if(simbolo == "/"){
+				texto.value = parseInt(num1)/parseInt(num2);
+			}
+				
+		}
+		function ac(){
+			texto = document.getElementById("resultado").value = "";
+		}
+	</script>
+</body>
+</html>

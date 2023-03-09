@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <script language="Javascript">
+      morning = 0;
+      afternon = 0;
+      night = 0;
+      for(i = 0; i < 5; i++){
+        morning += parseInt(prompt("Escribe una nota de mañana: "));
+      }
+      morning = morning/5
+      for(i = 0; i < 5; i++){
+        afternon += parseInt(prompt("Escribe una nota de tarde: "));
+      }
+      afternon = afternon/5
+      for(i = 0; i < 5; i++){
+        night += parseInt(prompt("Escribe una nota de noche: "));
+      }
+      night = afternon/5
+      
+      function agregar(){
+        document.getElementById('td1').innerHTML = morning;
+        document.getElementById('td2').innerHTML = afternon;
+        document.getElementById('td3').innerHTML = night;
+      }
+      function result(){
+        resultado = 0;
+
+        if (morning > afternon && morning > night){
+          resultado = morning;
+        }
+        if(afternon > morning && afternon > night){
+          resultado = afternon;
+        }
+        if(night > afternon && night > morning){
+          resultado = night;
+        }
+        r = document.getElementById('td4').innerHTML = resultado;
+        document.write("The shift with a higer value is "+r);
+      }
+    </script>
+  </head>
+  <body>
+    <div onload="agregar()">
+    <table border = "1">
+      <tr>
+        <td>Morning Shift</td>
+        <td>Afternon Shift</td>
+        <td>Night shift</td>
+      </tr>
+      <tr>
+        <td id = "td1"></td>
+        <td id = "td2"></td>
+        <td id = "td3"></td>
+      </tr>
+    </table>
+  </div>
+  <div onload="result()">
+    <p id = "td4"></p>
+  </div>
+    
+  </body>
+</html>
